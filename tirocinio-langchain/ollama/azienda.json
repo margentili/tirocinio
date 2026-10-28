@@ -1,0 +1,27 @@
+{
+  "azienda": {
+    "nome": "Nordvia Componenti S.r.l.",
+    "nota": "AZIENDA FITTIZIA - solo per simulazione",
+    "settore": "distribuzione di componentistica industriale",
+    "dipendenti": 48,
+    "sede": "Italia settentrionale",
+    "dominio": "nordvia.invalid",
+    "strumenti": ["posta elettronica", "chat interna", "gestionale ordini", "portale ferie", "cartelle condivise"]
+  },
+  "policy_sicurezza": {
+    "credenziali": "l'IT non chiede mai password via email o telefono",
+    "autenticazione": "app di autenticazione a due fattori obbligatoria",
+    "canale_ufficiale_IT": "ticket sul portale interno o interno telefonico",
+    "documenti_esterni": "fatture e documenti esterni passano dal protocollo, non da link diretti"
+  },
+  "organigramma": [
+    {"ruolo": "Direttore generale", "nome": "Paolo Ferrari"},
+    {"ruolo": "Responsabile IT", "nome": "Stefano Greco"},
+    {
+      "ruolo": "Segretaria amministrativa",
+      "nome": "Laura Benedetti",
+      "anzianita": "6 anni in azienda",
+      "formazione_sicurezza": "una sola sessione generica nel 2023"
+    }
+  ]
+}
