@@ -1,26 +1,18 @@
 [
-  {
-    "id": "cred_ferie",
-    "pretext": "richiesta credenziali per portale ferie",
-    "strumento": "portale ferie",
-    "bersaglio": "amministrazione"
-  },
-  {
-    "id": "iban_fornitore",
-    "pretext": "cambio coordinate bancarie di un fornitore",
-    "strumento": "protocollo",
-    "bersaglio": "amministrazione"
-  },
-  {
-    "id": "ordine_urgente",
-    "pretext": "conferma ordine urgente con link",
-    "strumento": "gestionale ordini",
-    "bersaglio": "acquisti"
-  },
-  {
-    "id": "allegato_ddt",
-    "pretext": "documento di trasporto da verificare",
-    "strumento": "cartelle condivise",
-    "bersaglio": "magazzino"
-  }
+ {"id":"cred_ferie","pretext":"richiesta credenziali per portale ferie",
+  "strumento":"portale ferie","bersaglio":"amministrazione",
+  "mittente":"Stefano Greco, responsabile IT interno",
+  "trigger":"aggiornamento obbligatorio entro 48 ore, altrimenti l'accesso si blocca"},
+ {"id":"iban_fornitore","pretext":"cambio coordinate bancarie di un fornitore",
+  "strumento":"protocollo","bersaglio":"amministrazione",
+  "mittente":"ufficio amministrazione di Metalpress S.r.l., fornitore",
+  "trigger":"chiusura mensile, bonifico gia' in partenza"},
+ {"id":"ordine_urgente","pretext":"conferma ordine urgente con link",
+  "strumento":"gestionale ordini","bersaglio":"acquisti",
+  "mittente":"referente commerciale di Tecnoimpianti, cliente",
+  "trigger":"merce in partenza, conferma entro la giornata"},
+ {"id":"allegato_ddt","pretext":"documento di trasporto da verificare",
+  "strumento":"cartelle condivise","bersaglio":"magazzino",
+  "mittente":"ufficio spedizioni di Logistica Adriatica, fornitore",
+  "trigger":"documento da verificare entro il turno"}
 ]

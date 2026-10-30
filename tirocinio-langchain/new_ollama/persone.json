@@ -1,22 +1,11 @@
+
 [
-  {
-    "id": "segretaria_fiduciosa",
-    "ruolo": "segretaria amministrativa",
-    "tratti": "6 anni in azienda, formazione scarsa, tende a fidarsi dei messaggi ufficiali, legge in diagonale"
-  },
-  {
-    "id": "segretaria_prudente",
-    "ruolo": "segretaria amministrativa",
-    "tratti": "formazione recente, controlla il mittente, chiede conferma al collega"
-  },
-  {
-    "id": "hr_generica",
-    "ruolo": "risorse umane",
-    "tratti": "abituata a ricevere curriculum e documenti, carico alto"
-  },
-  {
-    "id": "gestore_ticket",
-    "ruolo": "gestore ticket IT",
-    "tratti": "competente ma saturo, smista senza leggere tutto"
-  }
+ {"id":"segretaria_fiduciosa","nome":"Laura Benedetti","ruolo":"segretaria amministrativa",
+  "tratti":"6 anni in azienda, formazione scarsa, tende a fidarsi dei messaggi ufficiali, legge in diagonale"},
+ {"id":"segretaria_prudente","nome":"Marta Colombo","ruolo":"segretaria amministrativa",
+  "tratti":"formazione recente, controlla il mittente, chiede conferma al collega"},
+ {"id":"hr_generica","nome":"Chiara Rinaldi","ruolo":"risorse umane",
+  "tratti":"abituata a ricevere curriculum e documenti, carico alto"},
+ {"id":"gestore_ticket","nome":"Marco Ducci","ruolo":"gestore ticket IT",
+  "tratti":"competente ma saturo, smista senza leggere tutto"}
 ]
