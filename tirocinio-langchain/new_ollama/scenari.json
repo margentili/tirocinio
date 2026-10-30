@@ -1,0 +1,26 @@
+[
+  {
+    "id": "cred_ferie",
+    "pretext": "richiesta credenziali per portale ferie",
+    "strumento": "portale ferie",
+    "bersaglio": "amministrazione"
+  },
+  {
+    "id": "iban_fornitore",
+    "pretext": "cambio coordinate bancarie di un fornitore",
+    "strumento": "protocollo",
+    "bersaglio": "amministrazione"
+  },
+  {
+    "id": "ordine_urgente",
+    "pretext": "conferma ordine urgente con link",
+    "strumento": "gestionale ordini",
+    "bersaglio": "acquisti"
+  },
+  {
+    "id": "allegato_ddt",
+    "pretext": "documento di trasporto da verificare",
+    "strumento": "cartelle condivise",
+    "bersaglio": "magazzino"
+  }
+]

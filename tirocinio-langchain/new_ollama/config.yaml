@@ -1,0 +1,11 @@
+run_id: auto            # sovrascritto all'avvio
+seed: 42
+scenario: cred_ferie
+persona: segretaria_fiduciosa
+max_giri: 2
+rumore_per_giro: 3
+modelli:
+  attacker: {name: mistral, temp: 0.9, host: "http://100.72.54.78:11434"}
+  defender: {name: "llama3.2:3b", temp: 0.2, host: "http://100.72.54.78:11434"}
+  judge:    {name: "qwen2.5:3b", temp: 0.0, host: "http://100.72.54.78:11434"}
+  
