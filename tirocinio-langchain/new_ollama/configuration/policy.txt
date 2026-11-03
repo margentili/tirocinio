@@ -2,3 +2,5 @@ L'IT non chiede mai password via email o telefono.
 Autenticazione a due fattori obbligatoria con app.
 Canale ufficiale IT: ticket sul portale interno o interno telefonico.
 Fatture e documenti esterni passano dal protocollo, non da link diretti.
+Prima di aprire un link, confronta il dominio con nordvia.invalid.
+I domini interni legittimi sono nordvia.invalid e le sue sottodirectory. Qualsiasi altra forma è esterna.

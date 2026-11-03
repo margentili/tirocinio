@@ -1,11 +1,11 @@
 import json, uuid, datetime, pathlib
 
 class RunLog:
-    def __init__(self, cfg):
+    def __init__(self, cfg, cartella="runs"):
         self.run_id = datetime.datetime.now().strftime("%Y%m%d%H%M%S") + "-" + uuid.uuid4().hex[:6]
         self.cfg = cfg
-        self.path = pathlib.Path(f"runs/{self.run_id}.jsonl")
-        self.path.parent.mkdir(exist_ok=True)
+        self.path = pathlib.Path(cartella) / f"{self.run_id}.jsonl"
+        self.path.parent.mkdir(parents=True, exist_ok=True)
 
     def scrivi(self, giro, attore, **campi):
         riga = {"run_id": self.run_id, "ts": datetime.datetime.now().isoformat(),

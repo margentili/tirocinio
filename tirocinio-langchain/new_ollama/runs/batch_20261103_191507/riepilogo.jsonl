@@ -1,0 +1,3 @@
+{"run_id": "20261103191507-d1ada2", "i": 0, "template": "L01", "decisione": "apre", "esito": 2, "p_credibilita": 2, "p_coerenza_mittente": 3, "p_call_to_action": 1, "p_tenuta_difensiva": 4}
+{"run_id": "20261103191520-50a735", "i": 1, "template": "L02", "decisione": "apre", "esito": 2, "p_credibilita": 2, "p_coerenza_mittente": 3, "p_call_to_action": 1, "p_tenuta_difensiva": 5}
+{"run_id": "20261103191535-aae9c7", "i": 2, "template": "L09", "decisione": "segnala", "esito": 0, "p_credibilita": 2, "p_coerenza_mittente": 3, "p_call_to_action": 1, "p_tenuta_difensiva": 5}
