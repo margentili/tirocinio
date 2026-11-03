@@ -1,0 +1,4 @@
+L'IT non chiede mai password via email o telefono.
+Autenticazione a due fattori obbligatoria con app.
+Canale ufficiale IT: ticket sul portale interno o interno telefonico.
+Fatture e documenti esterni passano dal protocollo, non da link diretti.

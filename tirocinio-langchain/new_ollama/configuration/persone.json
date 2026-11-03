@@ -1,6 +1,5 @@
-
 [
- {"id":"segretaria_fiduciosa","nome":"Laura Benedetti","ruolo":"segretaria amministrativa",
+ {"id":"segretaria_fiduciosa","nome":"Laura Benedetti","ruolo":"",
   "tratti":"6 anni in azienda, formazione scarsa, tende a fidarsi dei messaggi ufficiali, legge in diagonale"},
  {"id":"segretaria_prudente","nome":"Marta Colombo","ruolo":"segretaria amministrativa",
   "tratti":"formazione recente, controlla il mittente, chiede conferma al collega"},

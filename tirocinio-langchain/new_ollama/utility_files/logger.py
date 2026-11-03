@@ -14,3 +14,13 @@ class RunLog:
                 **campi}
         with self.path.open("a", encoding="utf-8") as f:
             f.write(json.dumps(riga, ensure_ascii=False) + "\n")
+
+
+# __init__ definisce un identificativo unico combinando data, ora e sei numeri casuali.
+# RunLog.scrivi accetta tre cose, il numero di passo, chi ha agito, e un insieme libero di campi.
+# attore è chi ha prodotto l'evento, il numero di passo, chi ha agito, e un insieme libero di campi.
+    # sistema all'avvio
+    # attaccante quando la mail viene generata
+    # difensore quando decide
+    # giudice quando valuta
+# giro è il contatore del passo
