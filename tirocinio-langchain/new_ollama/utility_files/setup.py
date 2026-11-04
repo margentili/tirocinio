@@ -34,8 +34,11 @@ def carica():
     persone = {p["id"]: p for p in json.loads(PERSONE.read_text(encoding="utf-8"))}
     scenario = scenari[cfg["scenario"]]
     persona = persone[cfg["persona"]]
-    ciclo = itertools.cycle([l for l in json.loads(LEGITTIME.read_text(encoding="utf-8"))
-                             if l["tipo"] == scenario["tipo"]])
+
+    templ = [l for l in json.loads(LEGITTIME.read_text(encoding="utf-8"))
+             if scenario["id"] in l.get("scenari", [])]
+    assert templ, f"nessun template associato allo scenario '{scenario['id']}'"
+    ciclo = itertools.cycle(templ)
     return cfg, scenario, persona, ciclo
 
 def nuovo_log(cfg, cartella):

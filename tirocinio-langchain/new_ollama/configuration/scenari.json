@@ -8,7 +8,7 @@
  {"id":"iban_fornitore","tipo":"iban","pretext":"cambio coordinate bancarie di un fornitore",
   "strumento":"protocollo","bersaglio":"amministrazione",
   "mittente":"ufficio amministrazione di Metalpress S.r.l., fornitore",
-  "da":"amministrazione@metalpress-nordvia.invalid",
+  "da":"amministrazione@metalpress.invalid",
   "trigger":"chiusura mensile, bonifico già in partenza",
   "tipo_attacco":"account_compromesso","link":"http://metalpress-nordvia.invalid"},
  {"id":"ordine_urgente","tipo":"ordine","pretext":"conferma ordine urgente con link",
