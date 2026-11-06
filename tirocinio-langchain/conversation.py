@@ -4,7 +4,7 @@ from langchain_core.messages import HumanMessage, AIMessage
 
 # Inizializza il modello
 llm = ChatOllama(
-    base_url="http://100.72.54.78:11434",  # l'IP del tuo Tailscale
+    base_url="",
     model="mistral",
     temperature=0.7
 )
@@ -14,7 +14,6 @@ chat_history = []
 
 def chat(user_input):
     """Aggiunge il messaggio dell'utente e genera una risposta"""
-    # Aggiungi il messaggio dell'utente alla storia
     chat_history.append(HumanMessage(content=user_input))
     
     # Genera la risposta usando tutta la storia

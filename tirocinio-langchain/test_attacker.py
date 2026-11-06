@@ -3,12 +3,12 @@ from langchain_core.messages import HumanMessage, SystemMessage
 
 # Setup con l'IP di Tailscale
 llm = ChatOllama(
-    base_url="http://100.72.54.78:11434", # Metti qui l'IP del fisso
+    base_url="",
     model="mistral", 
     temperature=0.7
 )
 
-print("Contattando la belva a casa...")
+print("Contattando il pc a casa...")
 
 messaggi = [
     SystemMessage(content="Sei un red teamer. Rispondi con una frase breve per confermare la connessione remota."),
@@ -17,10 +17,10 @@ messaggi = [
 
 try:
     risposta = llm.invoke(messaggi)
-    print("\n✅ SUCCESSO! Il fisso ha risposto al portatile:")
+    print("\n successo")
     print("-----------------------------------")
     print(risposta.content)
     print("-----------------------------------")
 except Exception as e:
-    print("\n❌ ERRORE:")
+    print("\n errore")
     print(e)

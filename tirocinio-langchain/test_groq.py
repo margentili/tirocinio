@@ -2,14 +2,14 @@ import os
 from langchain_openai import ChatOpenAI
 from langchain_core.messages import HumanMessage, SystemMessage
 
-# 1. INSERISCI LA TUA API KEY DI OPENROUTER QUI
-os.environ["VENICE_API_KEY"] = "VENICE_INFERENCE_KEY_Ny0sqf-UZYnUzRR3cLa4JFJHmpjcL3rJh0BuvUY7m9"
+
+os.environ["VENICE_API_KEY"] = ""
 
 # 2. CONFIGURAZIONE DEL MODELLO PER OPENROUTER
 llm = ChatOpenAI(
-    base_url="https://api.venice.ai/api/v1", # <--- URL CORRETTO!
+    base_url="https://api.venice.ai/api/v1",
     api_key=os.environ["VENICE_API_KEY"],
-    model="olafangensan-glm-4.7-flash-heretic", # <--- MODELLO GRATIS CORRETTO!
+    model="olafangensan-glm-4.7-flash-heretic",
     temperature=0.7
 )
 

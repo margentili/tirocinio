@@ -1,13 +1,13 @@
 import os
 from langchain_openai import AzureChatOpenAI
 
-# Inserisci i dati che hai trovato nel portale
-os.environ["AZURE_OPENAI_API_KEY"] = "EyrfMUpu3qYyeGYWkfK4AsmoKc1lQEMt8liwzXM6alGy4w8NiDkKJQQJ99CJACgEuAYXJ3w3AAABACOGWQEQ"
+
+os.environ["AZURE_OPENAI_API_KEY"] = ""
 os.environ["AZURE_OPENAI_ENDPOINT"] = "https://phishing-dolphins123.openai.azure.com/"
 
 # Inizializza il modello 
 llm = AzureChatOpenAI(
-    azure_deployment="NOME_DEL_TUO_DEPLOYMENT", # Quello che hai creato nell'AI Studio
+    azure_deployment="NOME_DEL_TUO_DEPLOYMENT",
     api_version="2024-02-15-preview", 
     temperature=0.7
 )

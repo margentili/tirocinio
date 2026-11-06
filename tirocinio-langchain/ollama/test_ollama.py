@@ -13,13 +13,13 @@ class EmailState(TypedDict):
 
 # Inizializza Ollama con Mistral
 attacker_llm = ChatOllama(
-    base_url="http://100.72.54.78:11434",  # l'IP del tuo Tailscale
+    base_url="",  # l'IP del tuo Tailscale
     model="mistral",
     temperature=0.7
 )
 
 defender_llm = ChatOllama(
-    base_url="http://100.72.54.78:11434",  # stesso IP
+    base_url="",  # stesso IP
     model="mistral",
     temperature=0.7
 )

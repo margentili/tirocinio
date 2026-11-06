@@ -1,6 +1,6 @@
 import os
 from langchain_openai import ChatOpenAI
-apikey = os.environ["TOGETHER_API_KEY"] = "key_CfW9QHWF4pf2gDLng7gpj"
+apikey = os.environ["TOGETHER_API_KEY"] = ""
 
 llm = ChatOpenAI(
     model="venice-uncensored-1-2",

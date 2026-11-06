@@ -1,7 +1,7 @@
 import os
 from langchain_ollama import ChatOllama
 llm = ChatOllama(
-    base_url="http://100.72.54.78:11434",
+    base_url="",
     model = "mistral",
     temperature = 0.7)
 
