@@ -2,6 +2,8 @@ import json, yaml, re, random, itertools
 from pathlib import Path
 from utility_files.logger import RunLog
 
+
+
 CONFIG   = Path("utility_files/config.yaml")
 SCENARI  = Path("configuration/scenari.json")
 PERSONE  = Path("configuration/persone.json")
@@ -45,3 +47,13 @@ def nuovo_log(cfg, cartella):
     log = RunLog(cfg, cartella)
     log.scrivi(0, "sistema", evento="avvio", modalita=cfg["modalita"])
     return log
+
+def carica_rumore(cartella="configuration/rumore"):
+    fuori = {}
+    for p in sorted(Path(cartella).glob("*/*.mail")):
+        testo = p.read_text(encoding="utf-8")
+        testa, _, corpo = testo.partition("---")
+        campi = dict(r.split(": ", 1) for r in testa.strip().splitlines() if ": " in r)
+        campi["corpo"] = corpo.strip()
+        fuori.setdefault(campi.get("TIPO", "altro").lower(), []).append(campi)
+    return fuori

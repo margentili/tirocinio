@@ -14,9 +14,10 @@ modalita: mutata #come l'attaccante costruisce la mail.
 
 # max_giri: 2 #quanti scambi sono consentiti: mail, risposta, eventuale controreplica
 
-# rumore_per_giro: 3 #Quante mail legittime finiscono nella casella insieme a quella d'attacco. è quello che rende misurabile la precisione del difensore
+rumore_per_tipo: 3 #Quante mail legittime finiscono nella casella insieme a quella d'attacco. è quello che rende misurabile la precisione del difensore
 
 modelli: #modelli usati
-  attacker: {name: mistral, temp: 0.35, host: "http://192.168.1.126:11434"}
-  defender: {name: "llama3.2:3b", temp: 0.2, host: "http://192.168.1.126:11434"}
-  judge:    {name: "qwen2.5:3b", temp: 0.0, host: "http://192.168.1.126:11434"}
+  attacker: {name: mistral, temp: 0.35, host: "100.79.170.67:11434"}
+  defender: {name: "llama3.2:3b", temp: 0.2, host: "http://192.168.1.123:11434"}
+  judge:    {name: "qwen2.5:3b", temp: 0.0, host: "http://192.168.1.123:11434"}
+
