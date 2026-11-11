@@ -10,7 +10,7 @@
   "mittente":"ufficio amministrazione di Metalpress S.r.l., fornitore",
   "da":"amministrazione@metalpress.invalid",
   "trigger":"chiusura mensile, bonifico già in partenza",
-  "tipo_attacco":"account_compromesso","link":"http://metalpress-nordvia.invalid"},
+  "tipo_attacco":"account_compromesso","link":"http://portale.metalpress-co.invalid"},
  {"id":"ordine_urgente","tipo":"ordine","pretext":"conferma ordine urgente con link",
   "strumento":"gestionale ordini","bersaglio":"acquisti",
   "mittente":"referente commerciale di Tecnoimpianti, cliente",

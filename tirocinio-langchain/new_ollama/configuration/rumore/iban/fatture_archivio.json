@@ -1,0 +1,177 @@
+[
+  {
+    "file": "fatture_01.mail",
+    "da": "amministrazione@metalpress.invalid",
+    "oggetto": "Estratto conto fornitori ottobre",
+    "tipo": "iban",
+    "corpo": "Buongiorno,\ninviamo in allegato l'estratto conto di ottobre, aggiornato alle fatture registrate fino al 30 del mese. Vi chiediamo di confermarne la ricezione e di segnalarci eventuali differenze con la vostra contabilità.\nSandra Rossetti, Amministrazione clienti"
+  },
+  {
+    "file": "fatture_02.mail",
+    "da": "amministrazione@metalpress.invalid",
+    "oggetto": "Fattura 2026/0418 disponibile",
+    "tipo": "iban",
+    "corpo": "Buongiorno,\nla fattura 2026/0418 del 28 ottobre, di 2.340,00 euro, è disponibile nell'area riservata all'indirizzo http://portale.metalpress.invalid, insieme alle fatture dei mesi precedenti. Il pagamento è previsto a 60 giorni data fattura.\nSandra Rossetti, Amministrazione clienti"
+  },
+  {
+    "file": "fatture_03.mail",
+    "da": "acquisti@nordvia.invalid",
+    "oggetto": "Conferma ordine 4471 e pagamento",
+    "tipo": "iban",
+    "corpo": "Buongiorno Sandra,\nconfermiamo l'ordine 4471 per 1.200 raccordi in acciaio, consegna prevista la prima settimana di dicembre. Il pagamento avverrà con bonifico a 60 giorni data fattura, come da accordi già in essere.\nLuca Ferrari, Ufficio acquisti"
+  },
+  {
+    "file": "fatture_04.mail",
+    "da": "amministrazione@tecnoimpianti.invalid",
+    "oggetto": "Coordinate bancarie invariate",
+    "tipo": "iban",
+    "corpo": "Buongiorno,\nvi confermiamo che le nostre coordinate bancarie per i pagamenti restano invariate: IBAN IT28R0623001601000047218534, intestato a Tecnoimpianti S.r.l. Il riferimento da indicare nella causale è il numero della fattura.\nFabio Greco, Amministrazione"
+  },
+  {
+    "file": "fatture_05.mail",
+    "da": "roberta.villa@nordvia.invalid",
+    "oggetto": "Bonifico a saldo fattura 2026/0371",
+    "tipo": "iban",
+    "corpo": "Buongiorno Sandra,\nabbiamo disposto il bonifico di 1.875,50 euro a saldo della fattura 2026/0371, con valuta 6 novembre. Se l'importo risulta diverso sul vostro estratto conto, scrivimi pure e controlliamo insieme.\nRoberta Villa, Contabilità"
+  },
+  {
+    "file": "fatture_06.mail",
+    "da": "contabilita@logistica-adriatica.invalid",
+    "oggetto": "Fattura trasporti ottobre",
+    "tipo": "iban",
+    "corpo": "Buongiorno,\nin allegato la fattura 884/26 per i trasporti di ottobre, pari a 4.062,30 euro. Il pagamento può essere effettuato con bonifico a 30 giorni sul conto IT71B0542811200000012903467, indicando il numero di fattura.\nIlaria Fontana, Contabilità clienti"
+  },
+  {
+    "file": "fatture_07.mail",
+    "da": "amministrazione@tecnoimpianti.invalid",
+    "oggetto": "Fatture di ottobre nell'area clienti",
+    "tipo": "iban",
+    "corpo": "Buongiorno,\nle fatture di ottobre, dalla 1102 alla 1109, sono state caricate nell'area clienti, raggiungibile da http://clienti.tecnoimpianti.invalid. Il totale del mese è di 6.418,90 euro, con scadenza a fine dicembre.\nFabio Greco, Amministrazione"
+  },
+  {
+    "file": "fatture_08.mail",
+    "da": "luca.ferrari@nordvia.invalid",
+    "oggetto": "Nota di credito per differenza prezzo",
+    "tipo": "iban",
+    "corpo": "Buongiorno Ilaria,\nnella fattura 884/26 la tariffa di un ritiro risulta superiore a quella concordata, con una differenza di 85,00 euro. Potete emettere una nota di credito per l'importo? Grazie.\nLuca Ferrari, Ufficio acquisti"
+  },
+  {
+    "file": "fatture_09.mail",
+    "da": "amministrazione@vetroplast.invalid",
+    "oggetto": "Fattura 5120 e coordinate di pagamento",
+    "tipo": "iban",
+    "corpo": "Buongiorno,\ninviamo la fattura 5120 del 30 ottobre, di 3.756,00 euro, per la fornitura di pannelli trasparenti. Il bonifico va intestato a Vetroplast S.p.A. sul conto IT15L0306909410100000518276, scadenza 29 dicembre.\nNicola Parisi, Amministrazione vendite"
+  },
+  {
+    "file": "fatture_10.mail",
+    "da": "contabilita@nordvia.invalid",
+    "oggetto": "Copia fattura 5098 mancante",
+    "tipo": "iban",
+    "corpo": "Buongiorno Nicola,\nnella nostra contabilità manca la fattura 5098 di settembre, per 1.940,00 euro. Potete inviarcene una copia? Ci serve per la registrazione del mese e per chiudere la partita nello scadenzario.\nRoberta Villa, Contabilità"
+  },
+  {
+    "file": "fatture_11.mail",
+    "da": "ufficio.amministrativo@imballaggi-lombardi.invalid",
+    "oggetto": "Ricevuto bonifico fattura 2207",
+    "tipo": "iban",
+    "corpo": "Buongiorno,\nconfermiamo di aver ricevuto il bonifico di 1.320,40 euro del 5 novembre, a saldo della fattura 2207. Vi ringraziamo e restiamo a disposizione per i prossimi ordini di cartoni e pallet.\nDaniela Pozzi, Ufficio amministrativo"
+  },
+  {
+    "file": "fatture_12.mail",
+    "da": "amministrazione@metalpress.invalid",
+    "oggetto": "Condizioni di pagamento 2027",
+    "tipo": "iban",
+    "corpo": "Buongiorno,\nper il contratto di fornitura 2027 le condizioni di pagamento restano a 60 giorni data fattura, con bonifico su IBAN IT52T0200802837000104693120 intestato a Metalpress S.r.l. In allegato le condizioni complete.\nSandra Rossetti, Amministrazione clienti"
+  },
+  {
+    "file": "fatture_13.mail",
+    "da": "contabilita@logistica-adriatica.invalid",
+    "oggetto": "Documenti di trasporto novembre",
+    "tipo": "iban",
+    "corpo": "Buongiorno,\ni documenti di trasporto e le fatture di novembre saranno consultabili dal 3 dicembre sul sito http://documenti.logistica-adriatica.invalid. La fatturazione resta mensile, con emissione entro il quinto giorno lavorativo.\nIlaria Fontana, Contabilità clienti"
+  },
+  {
+    "file": "fatture_14.mail",
+    "da": "amministrazione@nordvia.invalid",
+    "oggetto": "Fattura 2026/0231 Nordvia",
+    "tipo": "iban",
+    "corpo": "Buongiorno,\nin allegato la fattura 2026/0231 del 4 novembre, di 5.210,00 euro, per la fornitura di cuscinetti e guarnizioni. Il pagamento a 30 giorni può essere fatto con bonifico su IBAN IT39F0103001604000063270915, intestato a Nordvia Componenti S.r.l.\nRoberta Villa, Contabilità"
+  },
+  {
+    "file": "fatture_15.mail",
+    "da": "roberta.villa@nordvia.invalid",
+    "oggetto": "Scadenze fornitori di novembre",
+    "tipo": "iban",
+    "corpo": "Ciao Luca,\nle fatture fornitori in scadenza a novembre sono sei, per un totale di 14.372,60 euro. I bonifici partiranno nell'ultima settimana del mese, come di consueto, salvo diverse indicazioni da parte tua.\nRoberta Villa, Contabilità"
+  },
+  {
+    "file": "fatture_16.mail",
+    "da": "amministrazione@vetroplast.invalid",
+    "oggetto": "Estratto conto al 31 ottobre",
+    "tipo": "iban",
+    "corpo": "Buongiorno,\nallegato l'estratto conto al 31 ottobre, con due fatture aperte per un totale di 5.696,00 euro. Vi chiediamo di verificarlo e di comunicarci eventuali scostamenti entro la metà di novembre.\nNicola Parisi, Amministrazione vendite"
+  },
+  {
+    "file": "fatture_17.mail",
+    "da": "acquisti@nordvia.invalid",
+    "oggetto": "Aggiornamento anagrafica fornitori",
+    "tipo": "iban",
+    "corpo": "Buongiorno Daniela,\nstiamo aggiornando l'anagrafica fornitori. Nei nostri archivi risulta l'IBAN IT83M0760101600000091547326 per Imballaggi Lombardi: ti chiedo di confermarmi se è ancora quello da utilizzare per i pagamenti, così lo lasciamo invariato.\nLuca Ferrari, Ufficio acquisti"
+  },
+  {
+    "file": "fatture_18.mail",
+    "da": "amministrazione@nordvia.invalid",
+    "oggetto": "Portale fornitori Nordvia",
+    "tipo": "iban",
+    "corpo": "Gentili fornitori,\nricordiamo che le fatture elettroniche e gli stati di pagamento sono consultabili nel portale fornitori, all'indirizzo http://fornitori.nordvia.invalid. Per i pagamenti la cadenza resta quella di fine mese.\nRoberta Villa, Contabilità"
+  },
+  {
+    "file": "fatture_19.mail",
+    "da": "ufficio.amministrativo@imballaggi-lombardi.invalid",
+    "oggetto": "Fattura 2231 cartoni e pallet",
+    "tipo": "iban",
+    "corpo": "Buongiorno,\ninviamo la fattura 2231 del 9 novembre, di 2.085,00 euro, per la consegna di cartoni e pallet. Il pagamento si effettua con bonifico a 30 giorni sul conto IT83M0760101600000091547326, come sempre.\nDaniela Pozzi, Ufficio amministrativo"
+  },
+  {
+    "file": "fatture_20.mail",
+    "da": "amministrazione@metalpress.invalid",
+    "oggetto": "Pagamento ricevuto fattura 2026/0371",
+    "tipo": "iban",
+    "corpo": "Buongiorno,\nabbiamo ricevuto il vostro bonifico di 1.875,50 euro, valuta 6 novembre, e la fattura 2026/0371 risulta saldata. Vi inviamo l'estratto conto aggiornato con la prossima comunicazione mensile.\nSandra Rossetti, Amministrazione clienti"
+  },
+  {
+    "file": "fatture_21.mail",
+    "da": "contabilita@logistica-adriatica.invalid",
+    "oggetto": "Nota di credito 31/26",
+    "tipo": "iban",
+    "corpo": "Buongiorno Luca,\nabbiamo emesso la nota di credito 31/26 di 85,00 euro per la differenza di tariffa sulla fattura 884/26. L'importo verrà scalato dal prossimo pagamento, senza altri passaggi da parte vostra.\nIlaria Fontana, Contabilità clienti"
+  },
+  {
+    "file": "fatture_22.mail",
+    "da": "amministrazione@nordvia.invalid",
+    "oggetto": "Calendario pagamenti dicembre",
+    "tipo": "iban",
+    "corpo": "Buongiorno a tutti,\nper dicembre i bonifici ai fornitori verranno disposti il 10 e il 23, per consentire l'incasso prima della chiusura di fine anno. Le fatture ricevute dopo il 18 dicembre saranno pagate a gennaio.\nRoberta Villa, Contabilità"
+  },
+  {
+    "file": "fatture_23.mail",
+    "da": "amministrazione@vetroplast.invalid",
+    "oggetto": "Fatture nel sito Vetroplast",
+    "tipo": "iban",
+    "corpo": "Buongiorno,\ndal mese di dicembre tutte le nostre fatture saranno consultabili anche nell'area riservata del sito http://vetroplast.invalid, ma continueremo a inviarle per posta elettronica all'indirizzo di sempre, come finora.\nNicola Parisi, Amministrazione vendite"
+  },
+  {
+    "file": "fatture_24.mail",
+    "da": "amministrazione@tecnoimpianti.invalid",
+    "oggetto": "Fattura 1118 e riferimenti di pagamento",
+    "tipo": "iban",
+    "corpo": "Buongiorno,\ninviamo la fattura 1118 del 6 novembre, di 2.790,00 euro, per l'intervento di manutenzione svolto in magazzino. Il bonifico va effettuato sul conto IT28R0623001601000047218534, indicando il numero di fattura nella causale.\nFabio Greco, Amministrazione"
+  },
+  {
+    "file": "fatture_25.mail",
+    "da": "roberta.villa@nordvia.invalid",
+    "oggetto": "Coordinate bancarie Nordvia",
+    "tipo": "iban",
+    "corpo": "Buongiorno a tutti,\nper i pagamenti verso Nordvia Componenti le coordinate bancarie restano quelle di sempre: IBAN IT39F0103001604000063270915. Nella causale indicate il numero della fattura e la ragione sociale del cliente.\nRoberta Villa, Contabilità"
+  }
+]

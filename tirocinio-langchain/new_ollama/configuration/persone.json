@@ -6,5 +6,7 @@
  {"id":"hr_generica","nome":"Chiara Rinaldi","ruolo":"risorse umane",
   "tratti":"abituata a ricevere curriculum e documenti, carico alto"},
  {"id":"gestore_ticket","nome":"Marco Ducci","ruolo":"gestore ticket IT",
-  "tratti":"competente ma saturo, smista senza leggere tutto"}
+  "tratti":"competente ma saturo, smista senza leggere tutto"},
+  {"id":"amministrazione_carica","nome":"Roberta Villa","ruolo":"addetta amministrazione",
+ "tratti":"gestisce fatture e scadenze, controlla gli importi, carico alto a fine mese"}
 ]

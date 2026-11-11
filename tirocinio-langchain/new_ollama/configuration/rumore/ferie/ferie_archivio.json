@@ -1,0 +1,177 @@
+[
+  {
+    "file": "ferie_01.mail",
+    "da": "hr@nordvia.invalid",
+    "oggetto": "Disponibilità ferie agosto",
+    "tipo": "ferie",
+    "corpo": "Gentile Laura,\nti ricordo che le richieste per agosto vanno inserite nel portale entro venerdì. Se hai già concordato le date con il tuo responsabile, basta caricarle senza altri passaggi. Il portale è raggiungibile da http://nordvia.invalid.\nChiara Rinaldi, HR"
+  },
+  {
+    "file": "ferie_02.mail",
+    "da": "segreteria@nordvia.invalid",
+    "oggetto": "Calendario chiusura estiva",
+    "tipo": "chiusura",
+    "corpo": "Buongiorno a tutti,\ncome ogni anno la sede e il magazzino resteranno chiusi dal 10 al 21 agosto. Le giornate di chiusura vengono scalate dal monte ferie, come indicato nel calendario aziendale distribuito a gennaio.\nPaola Zanetti, Segreteria"
+  },
+  {
+    "file": "ferie_03.mail",
+    "da": "amministrazione@nordvia.invalid",
+    "oggetto": "Residuo permessi ROL",
+    "tipo": "permessi",
+    "corpo": "Ciao Davide,\nil tuo residuo di permessi ROL al 31 ottobre è di 14 ore. Se vuoi pianificarne l'utilizzo prima della fine dell'anno, puoi indicarmi le date che preferisci entro la fine del mese.\nElena Bruni, Amministrazione del personale"
+  },
+  {
+    "file": "ferie_04.mail",
+    "da": "marco.bellini@nordvia.invalid",
+    "oggetto": "Copertura magazzino 17 agosto",
+    "tipo": "ferie",
+    "corpo": "Ciao Giulia,\nsarò in ferie dal 17 al 21 agosto. Ho lasciato le consegne nella cartella condivisa e Stefano si occupa delle spedizioni in uscita. Se ti serve qualcosa prima della partenza, scrivimi pure entro mercoledì.\nMarco Bellini, Magazzino"
+  },
+  {
+    "file": "ferie_05.mail",
+    "da": "hr@nordvia.invalid",
+    "oggetto": "Ferie periodo natalizio",
+    "tipo": "ferie",
+    "corpo": "Gentile Andrea,\nle richieste per le festività natalizie si possono inserire nel portale ferie fino al 15 novembre, all'indirizzo http://nordvia.invalid. Dopo quella data il calendario verrà consolidato dai responsabili di reparto.\nChiara Rinaldi, HR"
+  },
+  {
+    "file": "ferie_06.mail",
+    "da": "ordini@metalpress.invalid",
+    "oggetto": "Chiusura estiva Metalpress",
+    "tipo": "chiusura",
+    "corpo": "Buongiorno,\nvi informiamo che la nostra sede resterà chiusa dal 3 al 14 agosto per ferie. Gli ordini ricevuti entro il 31 luglio saranno evasi regolarmente, quelli successivi dopo la riapertura. Cordiali saluti.\nRoberto Fumagalli, Ufficio vendite"
+  },
+  {
+    "file": "ferie_07.mail",
+    "da": "assistenza@tecnoimpianti.invalid",
+    "oggetto": "Referente in ferie dal 24 agosto",
+    "tipo": "ferie",
+    "corpo": "Gentili colleghi,\nil nostro referente tecnico Luca Ferrero sarà in ferie dal 24 agosto al 4 settembre. Per le richieste di assistenza in quel periodo potete scrivere a questo indirizzo, risponderà la collega Sara Gallo. Cordiali saluti.\nMartina Colombo, Assistenza clienti"
+  },
+  {
+    "file": "ferie_08.mail",
+    "da": "planning@logistica-adriatica.invalid",
+    "oggetto": "Ritiri nella settimana di Ferragosto",
+    "tipo": "chiusura",
+    "corpo": "Buongiorno,\ndurante la settimana di Ferragosto i ritiri presso il vostro magazzino saranno effettuati solo il martedì e il giovedì. Vi chiediamo di confermare i colli pronti entro il 6 agosto. Cordiali saluti.\nGianni Moretti, Pianificazione trasporti"
+  },
+  {
+    "file": "ferie_09.mail",
+    "da": "hr@nordvia.invalid",
+    "oggetto": "Richiesta permessi orari",
+    "tipo": "permessi",
+    "corpo": "Ciao Francesca,\nper i permessi di poche ore basta compilare la richiesta nel portale, all'indirizzo http://nordvia.invalid, indicando data e fascia oraria. Il responsabile la approva di norma entro due giorni lavorativi.\nChiara Rinaldi, HR"
+  },
+  {
+    "file": "ferie_10.mail",
+    "da": "segreteria@nordvia.invalid",
+    "oggetto": "Ferie residue anno precedente",
+    "tipo": "ferie",
+    "corpo": "Buongiorno Matteo,\nti segnalo che hai ancora 6 giorni di ferie dell'anno precedente da utilizzare entro il 30 aprile. Se vuoi pianificarli con il reparto commerciale, possiamo sentirci nel corso della settimana.\nPaola Zanetti, Segreteria"
+  },
+  {
+    "file": "ferie_11.mail",
+    "da": "amministrazione@nordvia.invalid",
+    "oggetto": "Riepilogo ferie godute",
+    "tipo": "ferie",
+    "corpo": "Ciao Silvia,\ntrovi il riepilogo delle ferie godute nella tua pagina personale del portale, raggiungibile da http://nordvia.invalid. Al momento risultano 18 giorni usufruiti su 26. Per eventuali differenze scrivimi pure.\nElena Bruni, Amministrazione del personale"
+  },
+  {
+    "file": "ferie_12.mail",
+    "da": "simone.riva@nordvia.invalid",
+    "oggetto": "Permesso venerdì 20 novembre",
+    "tipo": "permessi",
+    "corpo": "Ciao Giulia,\nvenerdì 20 novembre sarò in permesso per una commissione personale. Potresti rispondere tu alle chiamate dei clienti del nord est durante la mattina? Ricambio volentieri alla prima occasione. Grazie mille.\nSimone Riva, Ufficio commerciale"
+  },
+  {
+    "file": "ferie_13.mail",
+    "da": "hr@nordvia.invalid",
+    "oggetto": "Ponte dell'Immacolata",
+    "tipo": "ferie",
+    "corpo": "Buongiorno a tutti,\nper il ponte di lunedì 7 dicembre le richieste di ferie vanno inserite nel portale entro il 20 novembre, su http://nordvia.invalid. Il reparto spedizioni garantirà comunque la presenza di due persone.\nChiara Rinaldi, HR"
+  },
+  {
+    "file": "ferie_14.mail",
+    "da": "amministrazione@nordvia.invalid",
+    "oggetto": "Maturazione ferie primo anno",
+    "tipo": "ferie",
+    "corpo": "Gentile Federico,\nbenvenuto in azienda. Nel primo anno le ferie maturano a rate mensili, quindi a oggi hai a disposizione 4 giorni. Per qualsiasi dubbio sul conteggio sono a disposizione in amministrazione.\nElena Bruni, Amministrazione del personale"
+  },
+  {
+    "file": "ferie_15.mail",
+    "da": "stefano.gatti@nordvia.invalid",
+    "oggetto": "Turni magazzino settembre",
+    "tipo": "turni",
+    "corpo": "Ciao a tutti,\nho preparato i turni del magazzino per settembre tenendo conto delle ferie già approvate. Se qualcuno ha esigenze diverse mi scriva entro lunedì, poi il calendario viene stampato e affisso in bacheca.\nStefano Gatti, Responsabile magazzino"
+  },
+  {
+    "file": "ferie_16.mail",
+    "da": "hr@nordvia.invalid",
+    "oggetto": "Ferie di Pasqua e ponti di aprile",
+    "tipo": "ferie",
+    "corpo": "Gentile Sara,\nle richieste per i giorni intorno a Pasqua si possono inserire da oggi nel portale ferie, all'indirizzo http://nordvia.invalid, fino al 28 febbraio. Per i ponti di aprile vale la stessa scadenza.\nChiara Rinaldi, HR"
+  },
+  {
+    "file": "ferie_17.mail",
+    "da": "segreteria@nordvia.invalid",
+    "oggetto": "Orari tra Natale e Capodanno",
+    "tipo": "chiusura",
+    "corpo": "Buongiorno a tutti,\ntra il 28 dicembre e il 5 gennaio gli uffici seguiranno l'orario ridotto, dalle 8:30 alle 13:00. Il magazzino resterà aperto solo per le spedizioni già programmate in precedenza.\nPaola Zanetti, Segreteria"
+  },
+  {
+    "file": "ferie_18.mail",
+    "da": "giorgia.sala@metalpress.invalid",
+    "oggetto": "Assenza per ferie dal 17 agosto",
+    "tipo": "ferie",
+    "corpo": "Buongiorno Andrea,\nti scrivo per avvisarti che sarò in ferie dal 17 al 28 agosto. Per gli ordini in corso puoi rivolgerti al collega Roberto Fumagalli, che ha già le informazioni sulle vostre consegne. Cordiali saluti.\nGiorgia Sala, Ufficio commerciale"
+  },
+  {
+    "file": "ferie_19.mail",
+    "da": "hr@nordvia.invalid",
+    "oggetto": "Saldo ROL nel portale ferie",
+    "tipo": "permessi",
+    "corpo": "Buongiorno a tutti,\nnel portale ferie, raggiungibile da http://nordvia.invalid, è ora visibile anche il saldo dei permessi ROL. Lo trovate nella vostra pagina personale, accanto al riepilogo delle ferie già godute.\nChiara Rinaldi, HR"
+  },
+  {
+    "file": "ferie_20.mail",
+    "da": "luca.ferrari@nordvia.invalid",
+    "oggetto": "Sostituzione ufficio acquisti",
+    "tipo": "ferie",
+    "corpo": "Ciao Chiara,\nti confermo che a settembre sarò in ferie dal 7 all'11. In ufficio acquisti mi sostituisce Elisa Conti, che ha già visto gli ordini aperti con i fornitori. Grazie.\nLuca Ferrari, Ufficio acquisti"
+  },
+  {
+    "file": "ferie_21.mail",
+    "da": "amministrazione@nordvia.invalid",
+    "oggetto": "Permessi per visite mediche",
+    "tipo": "permessi",
+    "corpo": "Ciao Davide,\nper le visite mediche programmate puoi usare le ore di permesso retribuito. Ricordati di consegnare in segreteria l'attestato di presenza rilasciato dalla struttura entro tre giorni dalla visita.\nElena Bruni, Amministrazione del personale"
+  },
+  {
+    "file": "ferie_22.mail",
+    "da": "hr@nordvia.invalid",
+    "oggetto": "Calendario ferie assistenza tecnica",
+    "tipo": "ferie",
+    "corpo": "Buongiorno Marta,\nil calendario ferie del reparto assistenza tecnica è stato aggiornato e si trova nel portale, all'indirizzo http://nordvia.invalid. Controlla che le tue date siano corrette e segnalami eventuali differenze entro mercoledì.\nChiara Rinaldi, HR"
+  },
+  {
+    "file": "ferie_23.mail",
+    "da": "ritiri@logistica-adriatica.invalid",
+    "oggetto": "Ritiri tra Natale e Capodanno",
+    "tipo": "chiusura",
+    "corpo": "Buongiorno,\ntra il 23 dicembre e il 4 gennaio i ritiri saranno effettuati a giorni alterni. Vi invitiamo a comunicarci il calendario delle spedizioni entro l'11 dicembre. Cordiali saluti.\nGianni Moretti, Pianificazione trasporti"
+  },
+  {
+    "file": "ferie_24.mail",
+    "da": "roberta.villa@nordvia.invalid",
+    "oggetto": "Permesso venerdì 4 dicembre",
+    "tipo": "permessi",
+    "corpo": "Ciao Paola,\nti avviso che venerdì 4 dicembre uso un giorno di permesso per un impegno di famiglia. Le pratiche di fatturazione in corso restano nella cartella condivisa, Elisa sa dove trovarle. Grazie.\nRoberta Villa, Contabilità"
+  },
+  {
+    "file": "ferie_25.mail",
+    "da": "hr@nordvia.invalid",
+    "oggetto": "Piano ferie primo semestre",
+    "tipo": "ferie",
+    "corpo": "Buongiorno a tutti,\nentro fine mese i responsabili di reparto condivideranno il piano ferie del primo semestre. Chi ha esigenze particolari le comunichi al proprio responsabile con qualche giorno di anticipo.\nChiara Rinaldi, HR"
+  }
+]
