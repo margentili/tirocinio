@@ -1,0 +1,1 @@
+{"run_id": "20261112194150-a718a1", "i": 0, "posizione": 0, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": false, "template": "L06", "decisione": "verifica", "esito": 1, "p_credibilita": 2, "p_coerenza_mittente": 3, "p_somiglianza_legittimo": 4, "p_tenuta_difensiva": 1}

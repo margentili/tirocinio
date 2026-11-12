@@ -1,0 +1,177 @@
+[
+  {
+    "file": "consegne_01.mail",
+    "da": "spedizioni@logistica-adriatica.invalid",
+    "oggetto": "DDT 1288 consegna del 13/11",
+    "tipo": "ddt",
+    "corpo": "Buongiorno,\nalleghiamo il DDT 1288 relativo alla consegna di domani mattina presso il vostro magazzino, 3 colli per un peso di 148 chilogrammi. Restiamo a disposizione per eventuali correzioni sui colli.\nGianni Moretti, Pianificazione trasporti"
+  },
+  {
+    "file": "consegne_02.mail",
+    "da": "spedizioni@metalpress.invalid",
+    "oggetto": "DDT 6021 ordine 4471",
+    "tipo": "ddt",
+    "corpo": "Buongiorno,\ninviamo il DDT 6021 relativo all'ordine 4471, 1.200 raccordi su 2 bancali, partenza prevista il 30 novembre con consegna il giorno successivo. Il vettore è Trasporti Nordest.\nValentina Orsi, Ufficio spedizioni"
+  },
+  {
+    "file": "consegne_03.mail",
+    "da": "marco.bellini@nordvia.invalid",
+    "oggetto": "Consegna DDT 1288 ricevuta",
+    "tipo": "ddt",
+    "corpo": "Ciao Luca,\nla consegna del DDT 1288 è arrivata alle 9:40 con 3 colli, come indicato sul documento. Il mezzo aveva targa GH482KT e ho firmato la ricevuta senza riserve. Tutto sistemato a scaffale.\nMarco Bellini, Magazzino"
+  },
+  {
+    "file": "consegne_04.mail",
+    "da": "spedizioni@trasporti-nordest.invalid",
+    "oggetto": "Ritiro del 17 novembre",
+    "tipo": "ddt",
+    "corpo": "Buongiorno,\nil nostro mezzo targa FD219LM passerà a ritirare la merce martedì 17 novembre tra le 14 e le 16. Vi chiediamo di tenere pronti 6 colli con il relativo DDT 2204.\nPaolo Gentile, Coordinamento ritiri"
+  },
+  {
+    "file": "consegne_05.mail",
+    "da": "spedizioni@trasporti-nordest.invalid",
+    "oggetto": "Documenti di trasporto prima settimana di novembre",
+    "tipo": "ddt",
+    "corpo": "Buongiorno,\ni documenti di trasporto firmati delle consegne della prima settimana di novembre sono disponibili nell'area documenti, http://documenti.trasporti-nordest.invalid, dove trovate le consegne dal riferimento 51120 al 51188, divise per data.\nPaolo Gentile, Coordinamento ritiri"
+  },
+  {
+    "file": "consegne_06.mail",
+    "da": "stefano.gatti@nordvia.invalid",
+    "oggetto": "Cartoni schiacciati DDT 7315",
+    "tipo": "ddt",
+    "corpo": "Ciao Elisa,\nnella consegna del DDT 7315 un bancale aveva due cartoni schiacciati. Ho annotato la riserva sul documento e scattato alcune fotografie. All'interno la merce sembra intatta, ma domani apro i colli e ti confermo.\nStefano Gatti, Responsabile magazzino"
+  },
+  {
+    "file": "consegne_07.mail",
+    "da": "elisa.conti@nordvia.invalid",
+    "oggetto": "Segnalazione imballo DDT 7315",
+    "tipo": "ddt",
+    "corpo": "Buongiorno,\nnella consegna del 10 novembre, DDT 7315, due cartoni del bancale risultavano schiacciati. La merce è integra, ma vi chiediamo di valutare con il vettore un imballo più robusto per le prossime spedizioni.\nElisa Conti, Ufficio acquisti"
+  },
+  {
+    "file": "consegne_08.mail",
+    "da": "spedizioni@vetroplast.invalid",
+    "oggetto": "Riscontro segnalazione DDT 7315",
+    "tipo": "ddt",
+    "corpo": "Buongiorno Elisa,\nabbiamo preso nota della segnalazione sul DDT 7315 e informato il nostro magazzino. Dalla prossima spedizione useremo cartoni a doppia onda e un angolare di protezione sui bancali. Restiamo a disposizione.\nMichele Brunetti, Ufficio spedizioni"
+  },
+  {
+    "file": "consegne_09.mail",
+    "da": "spedizioni@logistica-adriatica.invalid",
+    "oggetto": "Conferma ritiro 18 novembre",
+    "tipo": "ddt",
+    "corpo": "Buongiorno,\nconfermiamo il ritiro del 18 novembre presso il vostro magazzino per l'ordine 2318. Il mezzo targa EB731XR arriverà tra le 9 e le 12, con riferimento di ritiro 88214, e il DDT sarà emesso al carico.\nGianni Moretti, Pianificazione trasporti"
+  },
+  {
+    "file": "consegne_10.mail",
+    "da": "spedizioni@logistica-adriatica.invalid",
+    "oggetto": "DDT 1301 ritiro del 18 novembre",
+    "tipo": "ddt",
+    "corpo": "Buongiorno,\nil DDT 1301, relativo al ritiro del 18 novembre, è già disponibile nell'area documenti all'indirizzo http://documenti.logistica-adriatica.invalid, con la distinta dei 4 colli e il peso rilevato di 314 chilogrammi.\nGianni Moretti, Pianificazione trasporti"
+  },
+  {
+    "file": "consegne_11.mail",
+    "da": "marco.bellini@nordvia.invalid",
+    "oggetto": "Arrivo DDT 6021 martedì 1 dicembre",
+    "tipo": "ddt",
+    "corpo": "Ciao Luca,\nil corriere del DDT 6021 ha avvisato che arriverà martedì 1 dicembre dopo le 14 invece che al mattino. Libero la banchina 2 per lo scarico di 2 bancali e avviso il turno pomeridiano.\nMarco Bellini, Magazzino"
+  },
+  {
+    "file": "consegne_12.mail",
+    "da": "spedizioni@trasporti-nordest.invalid",
+    "oggetto": "Consegna 51207 a Brescia",
+    "tipo": "ddt",
+    "corpo": "Buongiorno,\nla consegna 51207 a Brescia, relativa all'ordine 2330, è stata effettuata oggi alle 11:25 e firmata dal ricevente. La ricevuta firmata è nell'area documenti, http://documenti.trasporti-nordest.invalid, insieme agli altri documenti del mese.\nPaolo Gentile, Coordinamento ritiri"
+  },
+  {
+    "file": "consegne_13.mail",
+    "da": "luca.ferrari@nordvia.invalid",
+    "oggetto": "Orari di scarico ordine 4510",
+    "tipo": "ddt",
+    "corpo": "Buongiorno Enrico,\nper la consegna dell'ordine 4510 del 26 novembre il nostro magazzino riceve dalle 8 alle 12 e dalle 14 alle 16:30. Vi chiedo di avvisare l'autista, che dovrà usare la banchina 1 per lo scarico dei bancali.\nLuca Ferrari, Ufficio acquisti"
+  },
+  {
+    "file": "consegne_14.mail",
+    "da": "spedizioni@imballaggi-lombardi.invalid",
+    "oggetto": "DDT 3920 ordine 4510",
+    "tipo": "ddt",
+    "corpo": "Buongiorno Luca,\ninviamo il DDT 3920 per l'ordine 4510: 400 pallet e 1.000 cartoni in 9 colli, partenza il 25 novembre con mezzo targa FP604AB. Consegna prevista il 26 novembre entro mezzogiorno.\nCristina Vitale, Ufficio spedizioni"
+  },
+  {
+    "file": "consegne_15.mail",
+    "da": "marco.bellini@nordvia.invalid",
+    "oggetto": "Differenza di quantità DDT 3920",
+    "tipo": "ddt",
+    "corpo": "Buongiorno Cristina,\nnella consegna del DDT 3920 abbiamo contato 392 pallet invece di 400. Gli altri 8 risultano sul documento ma non sono arrivati. Potete verificare con il vostro magazzino e comunicarci quando saranno spediti?\nMarco Bellini, Magazzino"
+  },
+  {
+    "file": "consegne_16.mail",
+    "da": "spedizioni@imballaggi-lombardi.invalid",
+    "oggetto": "Riscontro differenza DDT 3920",
+    "tipo": "ddt",
+    "corpo": "Buongiorno Marco,\nabbiamo controllato il carico: gli 8 pallet mancanti erano rimasti in magazzino per un errore di caricamento. Partono con il giro del 30 novembre, DDT integrativo 3944, consegna martedì 1 dicembre.\nCristina Vitale, Ufficio spedizioni"
+  },
+  {
+    "file": "consegne_17.mail",
+    "da": "spedizioni@logistica-adriatica.invalid",
+    "oggetto": "Calendario consegne dicembre",
+    "tipo": "ddt",
+    "corpo": "Buongiorno,\nil calendario delle consegne di dicembre, con i giorni di passaggio nelle varie province, è consultabile all'indirizzo http://documenti.logistica-adriatica.invalid, nell'area documenti. Per il periodo natalizio le consegne seguono il calendario ridotto già comunicato.\nGianni Moretti, Pianificazione trasporti"
+  },
+  {
+    "file": "consegne_18.mail",
+    "da": "spedizioni@tecnoimpianti.invalid",
+    "oggetto": "DDT 4512 ordine 1187",
+    "tipo": "ddt",
+    "corpo": "Buongiorno,\nalleghiamo il DDT 4512 per l'ordine 1187, 400 valvole a sfera su 2 bancali. Il ritiro è avvenuto alle 15:10 con mezzo targa GC907TN, la consegna è prevista martedì 17 novembre.\nMarta Sanna, Ufficio ordini"
+  },
+  {
+    "file": "consegne_19.mail",
+    "da": "stefano.gatti@nordvia.invalid",
+    "oggetto": "Arrivo DDT 4512 del 17 novembre",
+    "tipo": "ddt",
+    "corpo": "Ciao Elisa,\nho ricevuto il DDT 4512 per le valvole dell'ordine 1187. Arrivano martedì 17 novembre in 2 bancali, preparo la banchina 3 e due operatori per lo scarico dalle 9 in poi.\nStefano Gatti, Responsabile magazzino"
+  },
+  {
+    "file": "consegne_20.mail",
+    "da": "ordini@officine-bertoli.invalid",
+    "oggetto": "Collo mancante ordine 2318",
+    "tipo": "ddt",
+    "corpo": "Buongiorno,\nnella consegna dell'ordine 2318 abbiamo ricevuto 3 colli su 4. Il DDT 1301 ne indica 4 e il quarto, con le guarnizioni codice GU-0045, non risulta consegnato. Attendiamo vostre notizie sulla spedizione.\nAnna Tosi, Ufficio acquisti"
+  },
+  {
+    "file": "consegne_21.mail",
+    "da": "simone.riva@nordvia.invalid",
+    "oggetto": "Collo mancante DDT 1301",
+    "tipo": "ddt",
+    "corpo": "Buongiorno Gianni,\nil cliente segnala che il quarto collo del DDT 1301, riferimento di ritiro 88214, non è arrivato. Potete controllare dove si trova e indicarci la nuova data di consegna? Grazie.\nSimone Riva, Ufficio commerciale"
+  },
+  {
+    "file": "consegne_22.mail",
+    "da": "spedizioni@logistica-adriatica.invalid",
+    "oggetto": "Riscontro collo DDT 1301",
+    "tipo": "ddt",
+    "corpo": "Buongiorno Simone,\nil collo mancante del DDT 1301 era rimasto sul nostro mezzo ed è stato caricato sul giro di domani mattina. La consegna a Vicenza è prevista entro le 12. Ci scusiamo per il disguido.\nGianni Moretti, Pianificazione trasporti"
+  },
+  {
+    "file": "consegne_23.mail",
+    "da": "spedizioni@trasporti-nordest.invalid",
+    "oggetto": "Prova di consegna collo 51240",
+    "tipo": "ddt",
+    "corpo": "Buongiorno,\nla prova di consegna del collo 51240 è disponibile nell'area documenti, http://documenti.trasporti-nordest.invalid, con firma del ricevente e orario delle 10:35. Per altre copie vi invitiamo a indicare il numero di riferimento.\nPaolo Gentile, Coordinamento ritiri"
+  },
+  {
+    "file": "consegne_24.mail",
+    "da": "luca.ferrari@nordvia.invalid",
+    "oggetto": "Indirizzo e documenti ordine 4502",
+    "tipo": "ddt",
+    "corpo": "Buongiorno Valentina,\nper le consegne dell'ordine 4502 ricordiamo che l'indirizzo del magazzino è via dell'Industria 12. La prima parte, 300 viti, arriva il 25 novembre: per favore indicate sul DDT il numero d'ordine e il codice VT-M10.\nLuca Ferrari, Ufficio acquisti"
+  },
+  {
+    "file": "consegne_25.mail",
+    "da": "spedizioni@metalpress.invalid",
+    "oggetto": "DDT 6102 prima parte ordine 4502",
+    "tipo": "ddt",
+    "corpo": "Buongiorno Luca,\ninviamo il DDT 6102 per la prima parte dell'ordine 4502: 300 viti, codice VT-M10, in 3 colli. Il mezzo targa FA318CZ partirà il 25 novembre alle 7:30, consegna prevista nel pomeriggio.\nValentina Orsi, Ufficio spedizioni"
+  }
+]

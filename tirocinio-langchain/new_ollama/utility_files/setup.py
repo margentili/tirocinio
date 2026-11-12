@@ -50,10 +50,18 @@ def nuovo_log(cfg, cartella):
 
 def carica_rumore(cartella="configuration/rumore"):
     fuori = {}
-    for p in sorted(Path(cartella).glob("*/*.mail")):
+    for p in sorted(Path(cartella).rglob("*.mail")):
         testo = p.read_text(encoding="utf-8")
         testa, _, corpo = testo.partition("---")
-        campi = dict(r.split(": ", 1) for r in testa.strip().splitlines() if ": " in r)
-        campi["corpo"] = corpo.strip()
-        fuori.setdefault(campi.get("TIPO", "altro").lower(), []).append(campi)
+        campi = {}
+        for r in testa.strip().splitlines():
+            if ": " in r:
+                k, v = r.split(": ", 1)
+                campi[k.strip().upper()] = v.strip()
+        d = {"da": campi.get("DA", ""),
+             "oggetto": campi.get("OGGETTO", ""),
+             "tipo": campi.get("TIPO", "altro").lower(),
+             "corpo": corpo.strip(),
+             "file": p.name}
+        fuori.setdefault(d["tipo"], []).append(d)
     return fuori

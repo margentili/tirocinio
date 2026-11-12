@@ -8,5 +8,9 @@
  {"id":"gestore_ticket","nome":"Marco Ducci","ruolo":"gestore ticket IT",
   "tratti":"competente ma saturo, smista senza leggere tutto"},
   {"id":"amministrazione_carica","nome":"Roberta Villa","ruolo":"addetta amministrazione",
- "tratti":"gestisce fatture e scadenze, controlla gli importi, carico alto a fine mese"}
+ "tratti":"gestisce fatture e scadenze, controlla gli importi, carico alto a fine mese"},
+ {"id":"acquisti_carica","nome":"Elisa Conti","ruolo":"addetta acquisti",
+ "tratti":"gestisce ordini e preventivi, controlla i codici articolo, carico alto a fine mese"},
+ {"id":"magazzino_carico","nome":"Davide Riva","ruolo":"addetto magazzino",
+ "tratti":"scarica merce e controlla i DDT, lavora in fretta, salta i dettagli"}
 ]

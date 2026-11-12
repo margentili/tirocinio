@@ -16,11 +16,11 @@
   "mittente":"referente commerciale di Tecnoimpianti, cliente",
   "da":"acquisti@tecnoimpianti.invalid",
   "trigger":"merce in partenza, conferma entro la giornata",
-  "tipo_attacco":"account_compromesso","link":"http://tecn0impianti.invalid"},
+  "tipo_attacco":"account_compromesso","link":"http://ordini.tecn0impianti.invalid"},
  {"id":"allegato_ddt","tipo":"ddt","pretext":"documento di trasporto da verificare",
   "strumento":"cartelle condivise","bersaglio":"magazzino",
   "mittente":"ufficio spedizioni di Logistica Adriatica, fornitore",
   "da":"spedizioni@logistica-adriatica.invalid",
   "trigger":"documento da verificare entro il turno",
-  "tipo_attacco":"account_compromesso","link":"http://logistica-adriatico.invalid"}
+  "tipo_attacco":"account_compromesso","link":"http://documenti.logistica-adriatico.invalid"}
 ]

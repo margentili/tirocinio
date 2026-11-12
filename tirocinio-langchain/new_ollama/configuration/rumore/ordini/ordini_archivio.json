@@ -1,0 +1,177 @@
+[
+  {
+    "file": "ordini_01.mail",
+    "da": "ordini@tecnoimpianti.invalid",
+    "oggetto": "Conferma ordine 1187",
+    "tipo": "ordine",
+    "corpo": "Buongiorno,\nconfermiamo l'ordine 1187 per 400 valvole a sfera, codice articolo VS-0425, consegna prevista la prossima settimana presso il vostro magazzino. La merce viene spedita in unico bancale con documento di trasporto allegato.\nMarta Sanna, Ufficio ordini"
+  },
+  {
+    "file": "ordini_02.mail",
+    "da": "ordini@metalpress.invalid",
+    "oggetto": "Conferma ordine 4471",
+    "tipo": "ordine",
+    "corpo": "Buongiorno Luca,\nabbiamo registrato il vostro ordine 4471 per 1.200 raccordi in acciaio, codice RAC-0312, con consegna prevista nella prima settimana di dicembre. Vi inviamo il documento di conferma con le condizioni già concordate.\nRoberto Fumagalli, Ufficio vendite"
+  },
+  {
+    "file": "ordini_03.mail",
+    "da": "marco.bellini@nordvia.invalid",
+    "oggetto": "Merce ricevuta ordine 4398",
+    "tipo": "ordine",
+    "corpo": "Ciao Luca,\nè arrivata la merce dell'ordine 4398, 800 guarnizioni in gomma codice GU-0045. Il conteggio corrisponde al documento di trasporto e ho già sistemato i colli a scaffale nella corsia 6.\nMarco Bellini, Magazzino"
+  },
+  {
+    "file": "ordini_04.mail",
+    "da": "luca.ferrari@nordvia.invalid",
+    "oggetto": "Richiesta preventivo pannelli PT-1020",
+    "tipo": "ordine",
+    "corpo": "Buongiorno Teresa,\nvi chiediamo un preventivo per 250 pannelli trasparenti, codice PT-1020, spessore 4 millimetri, con consegna entro fine gennaio. Se possibile indicate anche i tempi di produzione e il costo del trasporto.\nLuca Ferrari, Ufficio acquisti"
+  },
+  {
+    "file": "ordini_05.mail",
+    "da": "commerciale@vetroplast.invalid",
+    "oggetto": "Preventivo 3302",
+    "tipo": "ordine",
+    "corpo": "Buongiorno Luca,\nallegato il preventivo 3302 per 250 pannelli trasparenti, codice PT-1020, a 18,40 euro al pezzo. Il preventivo è valido fino al 15 dicembre e i tempi di consegna sono di tre settimane dalla conferma.\nTeresa Basso, Ufficio commerciale"
+  },
+  {
+    "file": "ordini_06.mail",
+    "da": "stefano.gatti@nordvia.invalid",
+    "oggetto": "Disponibilità cuscinetti CUS-6204",
+    "tipo": "ordine",
+    "corpo": "Ciao Simone,\nla disponibilità a magazzino dei cuscinetti codice CUS-6204 è di 640 pezzi, di cui 200 già prenotati per l'ordine 2318 di Officine Bertoli. Il resto è disponibile per nuove consegne.\nStefano Gatti, Responsabile magazzino"
+  },
+  {
+    "file": "ordini_07.mail",
+    "da": "simone.riva@nordvia.invalid",
+    "oggetto": "Conferma ordine 2318",
+    "tipo": "ordine",
+    "corpo": "Buongiorno Anna,\nconfermiamo l'ordine 2318: 200 cuscinetti, codice CUS-6204, e 100 guarnizioni, codice GU-0045, spediti il 18 novembre con consegna prevista il giorno successivo. Il prezzo è quello dell'offerta di settembre.\nSimone Riva, Ufficio commerciale"
+  },
+  {
+    "file": "ordini_08.mail",
+    "da": "ordini@officine-bertoli.invalid",
+    "oggetto": "Ordine 2318 Officine Bertoli",
+    "tipo": "ordine",
+    "corpo": "Buongiorno,\nvi inviamo l'ordine 2318 per 200 cuscinetti, codice CUS-6204, e 100 guarnizioni, codice GU-0045, da consegnare presso il nostro stabilimento entro il 20 novembre. Attendiamo conferma delle quantità.\nAnna Tosi, Ufficio acquisti"
+  },
+  {
+    "file": "ordini_09.mail",
+    "da": "planning@logistica-adriatica.invalid",
+    "oggetto": "Ritiro ordine 2318",
+    "tipo": "ordine",
+    "corpo": "Buongiorno,\nil ritiro dell'ordine 2318 è programmato per mercoledì 18 novembre, tra le 9 e le 12, presso il vostro magazzino. I colli sono 4, per un peso complessivo di 312 chilogrammi. Cordiali saluti.\nGianni Moretti, Pianificazione trasporti"
+  },
+  {
+    "file": "ordini_10.mail",
+    "da": "spedizioni@logistica-adriatica.invalid",
+    "oggetto": "Spedizione 77412 partita",
+    "tipo": "ordine",
+    "corpo": "Buongiorno,\nla spedizione 77412 è partita oggi dal nostro centro di smistamento di Padova. Lo stato di avanzamento è consultabile sul sito http://spedizioni.logistica-adriatica.invalid, indicando il numero di spedizione. La consegna è prevista entro due giorni lavorativi.\nGianni Moretti, Pianificazione trasporti"
+  },
+  {
+    "file": "ordini_11.mail",
+    "da": "ordini@metalpress.invalid",
+    "oggetto": "Area ordini Metalpress",
+    "tipo": "ordine",
+    "corpo": "Buongiorno,\nvi ricordiamo che lo stato degli ordini in corso è consultabile all'indirizzo http://ordini.metalpress.invalid, dove risultano aperti l'ordine 4471 e l'ordine 4502, entrambi con consegna prevista a dicembre.\nRoberto Fumagalli, Ufficio vendite"
+  },
+  {
+    "file": "ordini_12.mail",
+    "da": "luca.ferrari@nordvia.invalid",
+    "oggetto": "Ordine 4502 viti e dadi",
+    "tipo": "ordine",
+    "corpo": "Buongiorno Roberto,\nti confermo l'ordine 4502 per 600 viti a testa esagonale, codice VT-M10, e 300 dadi autobloccanti, codice DD-M10. La consegna può essere divisa in due parti, come da accordi telefonici.\nLuca Ferrari, Ufficio acquisti"
+  },
+  {
+    "file": "ordini_13.mail",
+    "da": "ordini@imballaggi-lombardi.invalid",
+    "oggetto": "Disponibilità pallet PL-1208",
+    "tipo": "ordine",
+    "corpo": "Buongiorno,\nrispondiamo alla vostra richiesta: i pallet codice PL-1208 sono disponibili in quantità di 500 pezzi, consegnabili entro tre giorni lavorativi. Per quantità superiori servono circa dieci giorni.\nEnrico Sartori, Ufficio ordini"
+  },
+  {
+    "file": "ordini_14.mail",
+    "da": "acquisti@nordvia.invalid",
+    "oggetto": "Ordine 4510 pallet e cartoni",
+    "tipo": "ordine",
+    "corpo": "Buongiorno Enrico,\nvi inviamo l'ordine 4510 per 400 pallet, codice PL-1208, e 1.000 cartoni, codice CT-3040, da consegnare presso il magazzino entro il 27 novembre. Vi chiedo conferma dei prezzi dell'ultimo listino.\nLuca Ferrari, Ufficio acquisti"
+  },
+  {
+    "file": "ordini_15.mail",
+    "da": "ordini@imballaggi-lombardi.invalid",
+    "oggetto": "Conferma ordine 4510",
+    "tipo": "ordine",
+    "corpo": "Buongiorno Luca,\nconfermiamo l'ordine 4510: 400 pallet e 1.000 cartoni, consegna il 26 novembre. Il documento di conferma e lo stato dell'ordine si trovano nella vostra area ordini, http://ordini.imballaggi-lombardi.invalid, dove potete seguire anche le spedizioni.\nEnrico Sartori, Ufficio ordini"
+  },
+  {
+    "file": "ordini_16.mail",
+    "da": "marco.bellini@nordvia.invalid",
+    "oggetto": "Ordine 2330 pronto per la spedizione",
+    "tipo": "ordine",
+    "corpo": "Ciao Simone,\nl'ordine cliente 2330 è pronto per la spedizione: 36 valvole a sfera, codice VS-0425, imballate in due colli. Il corriere passa domani mattina, ti confermo l'orario appena lo ricevo.\nMarco Bellini, Magazzino"
+  },
+  {
+    "file": "ordini_17.mail",
+    "da": "acquisti@carpenteria-sartori.invalid",
+    "oggetto": "Richiesta preventivo cuscinetti a rulli",
+    "tipo": "ordine",
+    "corpo": "Buongiorno,\nvi chiediamo un preventivo per 120 cuscinetti a rulli, codice CR-7210, con consegna entro metà dicembre. Se avete disponibilità immediata, indicatecelo, altrimenti segnalateci i tempi di approvvigionamento.\nPaolo Dal Pra, Responsabile acquisti"
+  },
+  {
+    "file": "ordini_18.mail",
+    "da": "simone.riva@nordvia.invalid",
+    "oggetto": "Preventivo 5016",
+    "tipo": "ordine",
+    "corpo": "Buongiorno Paolo,\nin allegato il preventivo 5016 per 120 cuscinetti a rulli, codice CR-7210, a 14,80 euro al pezzo. Sono disponibili a magazzino, spedibili entro due giorni dalla conferma dell'ordine. Il preventivo è valido 30 giorni.\nSimone Riva, Ufficio commerciale"
+  },
+  {
+    "file": "ordini_19.mail",
+    "da": "acquisti@carpenteria-sartori.invalid",
+    "oggetto": "Ordine 6120 cuscinetti a rulli",
+    "tipo": "ordine",
+    "corpo": "Buongiorno,\naccettiamo il preventivo 5016 e vi inviamo l'ordine 6120 per 120 cuscinetti a rulli, codice CR-7210, da consegnare presso la nostra sede entro il 4 dicembre. Cordiali saluti.\nPaolo Dal Pra, Responsabile acquisti"
+  },
+  {
+    "file": "ordini_20.mail",
+    "da": "ordini@nordvia.invalid",
+    "oggetto": "Area ordini clienti Nordvia",
+    "tipo": "ordine",
+    "corpo": "Gentili clienti,\nricordiamo che le conferme d'ordine, i documenti di trasporto e la disponibilità degli articoli sono consultabili nell'area ordini all'indirizzo http://ordini.nordvia.invalid, oltre che su richiesta al nostro ufficio commerciale.\nSimone Riva, Ufficio commerciale"
+  },
+  {
+    "file": "ordini_21.mail",
+    "da": "ordini@metalpress.invalid",
+    "oggetto": "Data di consegna ordine 4502",
+    "tipo": "ordine",
+    "corpo": "Buongiorno Luca,\nla consegna completa dell'ordine 4502 è prevista il 2 dicembre per un ritardo nella fornitura dell'acciaio. Spediremo comunque la prima parte, 300 viti codice VT-M10, il 25 novembre.\nRoberto Fumagalli, Ufficio vendite"
+  },
+  {
+    "file": "ordini_22.mail",
+    "da": "elisa.conti@nordvia.invalid",
+    "oggetto": "Disponibilità valvole VS-0425",
+    "tipo": "ordine",
+    "corpo": "Ciao Stefano,\nmi serve sapere quante valvole a sfera codice VS-0425 sono a magazzino, perché un cliente ne chiede 80 per metà dicembre. Se ne mancano, preparo l'ordine al fornitore entro venerdì.\nElisa Conti, Ufficio acquisti"
+  },
+  {
+    "file": "ordini_23.mail",
+    "da": "stefano.gatti@nordvia.invalid",
+    "oggetto": "Risposta disponibilità valvole VS-0425",
+    "tipo": "ordine",
+    "corpo": "Ciao Elisa,\na magazzino ci sono 52 valvole codice VS-0425, più 400 in arrivo con l'ordine 1187 la prossima settimana. Quindi la richiesta da 80 pezzi è coperta senza altri ordini al fornitore.\nStefano Gatti, Responsabile magazzino"
+  },
+  {
+    "file": "ordini_24.mail",
+    "da": "ordini@tecnoimpianti.invalid",
+    "oggetto": "Spedizione ordine 1187",
+    "tipo": "ordine",
+    "corpo": "Buongiorno,\nla merce dell'ordine 1187 è stata affidata al corriere il 12 novembre, 400 valvole a sfera su 2 bancali. Il documento di trasporto è scaricabile dall'area ordini http://ordini.tecnoimpianti.invalid, nella sezione spedizioni.\nMarta Sanna, Ufficio ordini"
+  },
+  {
+    "file": "ordini_25.mail",
+    "da": "marco.bellini@nordvia.invalid",
+    "oggetto": "Colli pronti per il ritiro del 18 novembre",
+    "tipo": "ordine",
+    "corpo": "Buongiorno Gianni,\nconfermiamo che i 4 colli dell'ordine 2318 saranno pronti per il ritiro di mercoledì 18 novembre, già etichettati e pesati. L'accesso è dal cancello laterale, come per le ultime spedizioni.\nMarco Bellini, Magazzino"
+  }
+]

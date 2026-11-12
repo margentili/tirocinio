@@ -2,10 +2,10 @@ run_id: auto #ID della run
 
 seed: 42 #Seme della run. con lo stesso seme la run è riproducibile
 
-scenario: cred_ferie #va a prendere in scenari.json, e da li vengono pretext, strumento, mittente, leva
+scenario: iban_fornitore #va a prendere in scenari.json, e da li vengono pretext, strumento, mittente, leva
 #cambiando questa riga cambiamo l'attacco
 
-persona: segretaria_fiduciosa #va a prendere in persone.json nome, ruolo, tratti e il suo grado di fiducia.
+persona: amministrazione_carica #va a prendere in persone.json nome, ruolo, tratti e il suo grado di fiducia.
 
 
 modalita: mutata #come l'attaccante costruisce la mail.
@@ -17,7 +17,7 @@ modalita: mutata #come l'attaccante costruisce la mail.
 rumore_per_tipo: 3 #Quante mail legittime finiscono nella casella insieme a quella d'attacco. è quello che rende misurabile la precisione del difensore
 
 modelli: #modelli usati
-  attacker: {name: mistral, temp: 0.35, host: "100.79.170.67:11434"}
+  attacker: {name: mistral, temp: 0.35, host: "http://192.168.1.123:11434"}
   defender: {name: "llama3.2:3b", temp: 0.2, host: "http://192.168.1.123:11434"}
   judge:    {name: "qwen2.5:3b", temp: 0.0, host: "http://192.168.1.123:11434"}
 

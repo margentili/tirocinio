@@ -1,0 +1,13 @@
+Cambia tutto quello che sta nei due file, ed è esattamente il punto della tesi: sono le due variabili indipendenti.
+
+scenario cambia l'attacco. Da scenari_1.json il codice prende pretext, strumento, mittente, da, trigger e link. Con iban_fornitore l'attaccante finge di essere l'amministrazione di Metalpress, scrive di coordinate bancarie, e il link va su portale.metalpress-co.invalid. Cambia anche quale template viene clonato: il campo scenari nei template dice che solo L06 è base valida per questo scenario. Con cred_ferie invece il mittente diventa l'IT, il link nordvla.invalid, e i template sono le quattro mail HR.
+
+persona cambia chi difende. Da persone.json il codice prende nome, ruolo e tratti e li mette nel prompt del difensore. amministrazione_carica è Roberta Villa, addetta amministrazione, che "controlla gli importi". segretaria_fiduciosa è Laura, che "legge in diagonale". Stessa mail, due comportamenti attesi diversi.
+
+Quindi:
+
+cambiare scenario = cambiare l'esca
+cambiare persona = cambiare la resistenza
+E la matrice sono le combinazioni sensate delle due: Laura e Marta sulle ferie, Roberta sull'IBAN, Elisa sugli ordini, Davide sui DDT.
+
+Un paio di combinazioni non hanno senso e vanno evitate: il magazziniere che riceve una richiesta di credenziali, la segretaria che riceve un DDT. Se le metti, il difensore risponde fuori ruolo e il dato si sporca.
