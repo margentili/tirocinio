@@ -1,0 +1,13 @@
+{"run_id": "20261113225810-48470b", "i": 0, "posizione": 0, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "verifica", "falso_allarme": 0}
+{"run_id": "20261113225810-48470b", "i": 0, "posizione": 1, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "verifica", "falso_allarme": 0}
+{"run_id": "20261113225810-48470b", "i": 0, "posizione": 2, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "verifica", "falso_allarme": 0}
+{"run_id": "20261113225810-48470b", "i": 0, "posizione": 3, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "verifica", "falso_allarme": 0}
+{"run_id": "20261113225810-48470b", "i": 0, "posizione": 4, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "verifica", "falso_allarme": 0}
+{"run_id": "20261113225810-48470b", "i": 0, "posizione": 5, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "verifica", "falso_allarme": 0}
+{"run_id": "20261113225810-48470b", "i": 0, "posizione": 6, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": false, "template": "L06", "decisione": "verifica", "esito": 1, "p_credibilita": 2, "p_coerenza_mittente": 3, "p_somiglianza_legittimo": 3, "p_tenuta_difensiva": 2}
+{"run_id": "20261113225810-48470b", "i": 0, "posizione": 7, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "verifica", "falso_allarme": 0}
+{"run_id": "20261113225810-48470b", "i": 0, "posizione": 8, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "verifica", "falso_allarme": 0}
+{"run_id": "20261113225810-48470b", "i": 0, "posizione": 9, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "verifica", "falso_allarme": 0}
+{"run_id": "20261113225810-48470b", "i": 0, "posizione": 10, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "verifica", "falso_allarme": 0}
+{"run_id": "20261113225810-48470b", "i": 0, "posizione": 11, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "verifica", "falso_allarme": 0}
+{"run_id": "20261113225810-48470b", "i": 0, "posizione": 12, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "verifica", "falso_allarme": 0}

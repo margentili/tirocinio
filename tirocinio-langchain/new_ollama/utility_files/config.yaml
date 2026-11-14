@@ -18,6 +18,6 @@ rumore_per_tipo: 3 #Quante mail legittime finiscono nella casella insieme a quel
 
 modelli: #modelli usati
   attacker: {name: mistral, temp: 0.35, host: "http://192.168.1.123:11434"}
-  defender: {name: "llama3.2:3b", temp: 0.2, host: "http://192.168.1.123:11434"}
+  defender: {provider: azure, name: difensore, temp: null, host: ""}
   judge:    {name: "qwen2.5:3b", temp: 0.0, host: "http://192.168.1.123:11434"}
 

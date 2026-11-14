@@ -1,8 +1,12 @@
 import json, yaml, re, random, itertools
 from pathlib import Path
 from utility_files.logger import RunLog
+from langchain_ollama import ChatOllama
+import os
+from dotenv import load_dotenv
 
 
+load_dotenv()
 
 CONFIG   = Path("utility_files/config.yaml")
 SCENARI  = Path("configuration/scenari.json")
@@ -65,3 +69,25 @@ def carica_rumore(cartella="configuration/rumore"):
              "file": p.name}
         fuori.setdefault(d["tipo"], []).append(d)
     return fuori
+
+def crea_llm(ruolo, cfg, json_mode=False):
+    m = cfg["modelli"][ruolo]
+    if m.get("provider") == "azure":
+        from langchain_openai import AzureChatOpenAI
+        kw = dict(
+            azure_endpoint=os.environ["AZURE_AI_ENDPOINT"],
+            api_key=os.environ["AZURE_AI_KEY"],
+            azure_deployment=os.environ["AZURE_AI_DEPLOYMENT"],
+            api_version=os.environ["AZURE_AI_API_VERSION"],
+        )
+        if m.get("temp") is not None:
+            kw["temperature"] = m["temp"]
+        if json_mode:
+            kw["model_kwargs"] = {"response_format": {"type": "json_object"}}
+        return AzureChatOpenAI(**kw)
+
+    kw = dict(base_url=m["host"], model=m["name"], temperature=m["temp"],
+              num_ctx=2048, num_predict=250, client_kwargs={"timeout": 120})
+    if json_mode:
+        kw["format"] = "json"
+    return ChatOllama(**kw)
