@@ -5,9 +5,8 @@ from langchain_ollama import ChatOllama
 import os
 from dotenv import load_dotenv
 
-
-load_dotenv()
-
+load_dotenv(dotenv_path="utility_files/.env")
+ 
 CONFIG   = Path("utility_files/config.yaml")
 SCENARI  = Path("configuration/scenari.json")
 PERSONE  = Path("configuration/persone.json")
