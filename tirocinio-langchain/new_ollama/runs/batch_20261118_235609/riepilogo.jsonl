@@ -1,0 +1,65 @@
+{"run_id": "20261118235727-920859", "i": 0, "posizione": 0, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "apre", "falso_allarme": 0}
+{"run_id": "20261118235727-920859", "i": 0, "posizione": 1, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "ignora", "falso_allarme": 0}
+{"run_id": "20261118235727-920859", "i": 0, "posizione": 2, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "apre", "falso_allarme": 0}
+{"run_id": "20261118235727-920859", "i": 0, "posizione": 3, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "ignora", "falso_allarme": 0}
+{"run_id": "20261118235727-920859", "i": 0, "posizione": 4, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "apre", "falso_allarme": 0}
+{"run_id": "20261118235727-920859", "i": 0, "posizione": 5, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "ignora", "falso_allarme": 0}
+{"run_id": "20261118235727-920859", "i": 0, "posizione": 7, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "apre", "falso_allarme": 0}
+{"run_id": "20261118235727-920859", "i": 0, "posizione": 8, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "apre", "falso_allarme": 0}
+{"run_id": "20261118235727-920859", "i": 0, "posizione": 9, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "apre", "falso_allarme": 0}
+{"run_id": "20261118235727-920859", "i": 0, "posizione": 10, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "apre", "falso_allarme": 0}
+{"run_id": "20261118235727-920859", "i": 0, "posizione": 11, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "verifica", "falso_allarme": 0}
+{"run_id": "20261118235727-920859", "i": 0, "posizione": 12, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "apre", "falso_allarme": 0}
+{"run_id": "20261118235727-920859", "i": 0, "posizione": 6, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": false, "template": "-", "decisione": "verifica", "esito": 1, "p_credibilita": 2, "p_coerenza_mittente": 3, "p_somiglianza_legittimo": 4, "p_tenuta_difensiva": 3}
+{"run_id": "20261118235810-ce1331", "i": 1, "posizione": 0, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "apre", "falso_allarme": 0}
+{"run_id": "20261118235810-ce1331", "i": 1, "posizione": 1, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "apre", "falso_allarme": 0}
+{"run_id": "20261118235810-ce1331", "i": 1, "posizione": 2, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "ignora", "falso_allarme": 0}
+{"run_id": "20261118235810-ce1331", "i": 1, "posizione": 3, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "verifica", "falso_allarme": 0}
+{"run_id": "20261118235810-ce1331", "i": 1, "posizione": 5, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "apre", "falso_allarme": 0}
+{"run_id": "20261118235810-ce1331", "i": 1, "posizione": 6, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "apre", "falso_allarme": 0}
+{"run_id": "20261118235810-ce1331", "i": 1, "posizione": 7, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "apre", "falso_allarme": 0}
+{"run_id": "20261118235810-ce1331", "i": 1, "posizione": 8, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "apre", "falso_allarme": 0}
+{"run_id": "20261118235810-ce1331", "i": 1, "posizione": 9, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "ignora", "falso_allarme": 0}
+{"run_id": "20261118235810-ce1331", "i": 1, "posizione": 10, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "verifica", "falso_allarme": 0}
+{"run_id": "20261118235810-ce1331", "i": 1, "posizione": 11, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "apre", "falso_allarme": 0}
+{"run_id": "20261118235810-ce1331", "i": 1, "posizione": 12, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "apre", "falso_allarme": 0}
+{"run_id": "20261118235810-ce1331", "i": 1, "posizione": 4, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": false, "template": "-", "decisione": "verifica", "esito": 1, "p_credibilita": 2, "p_coerenza_mittente": 3, "p_somiglianza_legittimo": 4, "p_tenuta_difensiva": 3}
+{"run_id": "20261118235832-48f120", "i": 2, "posizione": 0, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "ignora", "falso_allarme": 0}
+{"run_id": "20261118235832-48f120", "i": 2, "posizione": 1, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "ignora", "falso_allarme": 0}
+{"run_id": "20261118235832-48f120", "i": 2, "posizione": 2, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "apre", "falso_allarme": 0}
+{"run_id": "20261118235832-48f120", "i": 2, "posizione": 4, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "ignora", "falso_allarme": 0}
+{"run_id": "20261118235832-48f120", "i": 2, "posizione": 5, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "apre", "falso_allarme": 0}
+{"run_id": "20261118235832-48f120", "i": 2, "posizione": 6, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "apre", "falso_allarme": 0}
+{"run_id": "20261118235832-48f120", "i": 2, "posizione": 7, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "apre", "falso_allarme": 0}
+{"run_id": "20261118235832-48f120", "i": 2, "posizione": 8, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "apre", "falso_allarme": 0}
+{"run_id": "20261118235832-48f120", "i": 2, "posizione": 9, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "apre", "falso_allarme": 0}
+{"run_id": "20261118235832-48f120", "i": 2, "posizione": 10, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "apre", "falso_allarme": 0}
+{"run_id": "20261118235832-48f120", "i": 2, "posizione": 11, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "apre", "falso_allarme": 0}
+{"run_id": "20261118235832-48f120", "i": 2, "posizione": 12, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "apre", "falso_allarme": 0}
+{"run_id": "20261118235832-48f120", "i": 2, "posizione": 3, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": false, "template": "-", "decisione": "verifica", "esito": 1, "p_credibilita": 2, "p_coerenza_mittente": 3, "p_somiglianza_legittimo": 4, "p_tenuta_difensiva": 3}
+{"run_id": "20261118235854-4adfeb", "i": 3, "posizione": 0, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "apre", "falso_allarme": 0}
+{"run_id": "20261118235854-4adfeb", "i": 3, "posizione": 1, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "apre", "falso_allarme": 0}
+{"run_id": "20261118235854-4adfeb", "i": 3, "posizione": 2, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "apre", "falso_allarme": 0}
+{"run_id": "20261118235854-4adfeb", "i": 3, "posizione": 4, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "apre", "falso_allarme": 0}
+{"run_id": "20261118235854-4adfeb", "i": 3, "posizione": 5, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "ignora", "falso_allarme": 0}
+{"run_id": "20261118235854-4adfeb", "i": 3, "posizione": 6, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "apre", "falso_allarme": 0}
+{"run_id": "20261118235854-4adfeb", "i": 3, "posizione": 7, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "apre", "falso_allarme": 0}
+{"run_id": "20261118235854-4adfeb", "i": 3, "posizione": 8, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "apre", "falso_allarme": 0}
+{"run_id": "20261118235854-4adfeb", "i": 3, "posizione": 9, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "apre", "falso_allarme": 0}
+{"run_id": "20261118235854-4adfeb", "i": 3, "posizione": 10, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "apre", "falso_allarme": 0}
+{"run_id": "20261118235854-4adfeb", "i": 3, "posizione": 11, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "apre", "falso_allarme": 0}
+{"run_id": "20261118235854-4adfeb", "i": 3, "posizione": 12, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "apre", "falso_allarme": 0}
+{"run_id": "20261118235854-4adfeb", "i": 3, "posizione": 3, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": false, "template": "-", "decisione": "verifica", "esito": 1, "p_credibilita": 2, "p_coerenza_mittente": 3, "p_somiglianza_legittimo": 4, "p_tenuta_difensiva": 3}
+{"run_id": "20261118235918-6d80e6", "i": 4, "posizione": 0, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "apre", "falso_allarme": 0}
+{"run_id": "20261118235918-6d80e6", "i": 4, "posizione": 1, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "apre", "falso_allarme": 0}
+{"run_id": "20261118235918-6d80e6", "i": 4, "posizione": 2, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "ignora", "falso_allarme": 0}
+{"run_id": "20261118235918-6d80e6", "i": 4, "posizione": 3, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "apre", "falso_allarme": 0}
+{"run_id": "20261118235918-6d80e6", "i": 4, "posizione": 4, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "apre", "falso_allarme": 0}
+{"run_id": "20261118235918-6d80e6", "i": 4, "posizione": 6, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "apre", "falso_allarme": 0}
+{"run_id": "20261118235918-6d80e6", "i": 4, "posizione": 7, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "apre", "falso_allarme": 0}
+{"run_id": "20261118235918-6d80e6", "i": 4, "posizione": 8, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "apre", "falso_allarme": 0}
+{"run_id": "20261118235918-6d80e6", "i": 4, "posizione": 9, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "ignora", "falso_allarme": 0}
+{"run_id": "20261118235918-6d80e6", "i": 4, "posizione": 10, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "apre", "falso_allarme": 0}
+{"run_id": "20261118235918-6d80e6", "i": 4, "posizione": 11, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "apre", "falso_allarme": 0}
+{"run_id": "20261118235918-6d80e6", "i": 4, "posizione": 12, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": true, "decisione": "ignora", "falso_allarme": 0}
+{"run_id": "20261118235918-6d80e6", "i": 4, "posizione": 5, "persona": "amministrazione_carica", "scenario": "iban_fornitore", "legittimo": false, "template": "-", "decisione": "verifica", "esito": 1, "p_credibilita": 2, "p_coerenza_mittente": 3, "p_somiglianza_legittimo": 4, "p_tenuta_difensiva": 3}

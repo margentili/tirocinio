@@ -14,10 +14,12 @@ modalita: nuova #come l'attaccante costruisce la mail.
 
 # max_giri: 2 #quanti scambi sono consentiti: mail, risposta, eventuale controreplica
 
+mail_per_braccio: 5
+
 rumore_per_tipo: 3 #Quante mail legittime finiscono nella casella insieme a quella d'attacco. è quello che rende misurabile la precisione del difensore
 
 modelli: #modelli usati
-  attacker: {name: qwen2.5:7B, temp: 0.2, host: "http://100.79.170.67:11434"}
+  attacker: {name: mistral, temp: 0.35, host: "http://100.79.170.67:11434"}
   defender: {provider: azure, name: difensore, temp: null, host: ""}
   judge:    {name: "qwen2.5:3b", temp: 0.0, host: "http://100.79.170.67:11434"}
 

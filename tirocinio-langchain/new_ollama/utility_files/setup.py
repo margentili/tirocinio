@@ -79,6 +79,7 @@ def crea_llm(ruolo, cfg, json_mode=False):
             azure_deployment=os.environ["AZURE_AI_DEPLOYMENT"],
             api_version=os.environ["AZURE_AI_API_VERSION"],
         )
+        kw["max_tokens"] = 400
         if m.get("temp") is not None:
             kw["temperature"] = m["temp"]
         if json_mode:
@@ -86,7 +87,22 @@ def crea_llm(ruolo, cfg, json_mode=False):
         return AzureChatOpenAI(**kw)
 
     kw = dict(base_url=m["host"], model=m["name"], temperature=m["temp"],
-              num_ctx=2048, num_predict=250, client_kwargs={"timeout": 120})
+              num_ctx=2048, num_predict=400, client_kwargs={"timeout": 120})
     if json_mode:
         kw["format"] = "json"
     return ChatOllama(**kw)
+
+def carica_attacchi(scenario_id, cartella="configuration/attacchi"):
+    fuori = []
+    for p in sorted(Path(cartella, scenario_id).glob("*.mail")):
+        testo = p.read_text(encoding="utf-8")
+        testa, _, corpo = testo.partition("---")
+        campi = {}
+        for r in testa.strip().splitlines():
+            if ": " in r:
+                k, v = r.split(": ", 1)
+                campi[k.strip().upper()] = v.strip()
+        fuori.append({"da": campi.get("DA", ""), "oggetto": campi.get("OGGETTO", ""),
+                      "template": campi.get("TEMPLATE", "-"), "corpo": corpo.strip(),
+                      "file": p.name})
+    return fuori
