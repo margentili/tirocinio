@@ -76,7 +76,7 @@ def crea_llm(ruolo, cfg, json_mode=False):
         kw = dict(
             azure_endpoint=os.environ["AZURE_AI_ENDPOINT"],
             api_key=os.environ["AZURE_AI_KEY"],
-            azure_deployment=os.environ["AZURE_AI_DEPLOYMENT"],
+            azure_deployment=os.environ["AZURE_AI_DEPLOYMENT_"+ruolo.upper()],
             api_version=os.environ["AZURE_AI_API_VERSION"],
         )
         kw["max_tokens"] = 400
