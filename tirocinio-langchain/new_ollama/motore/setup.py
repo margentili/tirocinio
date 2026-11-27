@@ -10,7 +10,6 @@ load_dotenv(dotenv_path=".env")
 CONFIG   = Path("config.yaml")
 SCENARI  = Path("dati/scenari.json")
 PERSONE  = Path("dati/persone.json")
-LEGITTIME = Path("dati/legittime.json")
 POLICY     = Path("dati/policy.txt")
 ANAGRAFICA = Path("dati/anagrafica_fornitori.txt")
 RUNS       = Path("runs")
@@ -47,11 +46,7 @@ def carica(scenario_id=None, persona_id=None):
     persona = persone[persona_id or cfg["persona"]]
     cfg["scenario"], cfg["persona"] = scenario["id"], persona["id"]
 
-    templ = [l for l in json.loads(LEGITTIME.read_text(encoding="utf-8"))
-             if scenario["id"] in l.get("scenari", [])]
-    assert templ, f"nessun template associato allo scenario '{scenario['id']}'"
-    ciclo = itertools.cycle(templ)
-    return cfg, scenario, persona, ciclo
+    return cfg, scenario, persona
 
 def nuovo_log(cfg, cartella):
     log = RunLog(cfg, cartella)
@@ -85,8 +80,9 @@ def carica_rumore(nome, reparto, cartella="rumore"):
              "tipo": campi.get("TIPO", "altro").lower(),
              "corpo": corpo.strip(),
              "file": p.name}
-        dest = nome if d["tipo"] == reparto else "ufficio " + reparti.get(d["tipo"], "amministrazione")
-        d["corpo"] = normalizza_saluto(d["corpo"], dest)
+        if reparti.get(d["tipo"]) != reparto:
+            continue
+        d["corpo"] = normalizza_saluto(d["corpo"], nome)
         fuori.setdefault(d["tipo"], []).append(d)
     return fuori
 

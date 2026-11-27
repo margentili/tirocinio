@@ -16,7 +16,12 @@ modalita: nuova #come l'attaccante costruisce la mail.
 
 mail_per_braccio: 5
 
-rumore_per_tipo: 3 #Quante mail legittime finiscono nella casella insieme a quella d'attacco. è quello che rende misurabile la precisione del difensore
+rumore_totale: 9 #Quante mail legittime finiscono nella casella insieme a quella d'attacco. è quello che rende misurabile la precisione del difensore
+
+rigenera: false #mettere su true solo in caso di debug del codice, le mail vanno congelate, su true le mail generate dall'attaccante vengono eliminate ad
+                #ogni avvio
+                
+
 
 modelli: #modelli usati
   attacker: {provider: azure, name: gpt-4.1-mini, temp: 0.7, host: ""}

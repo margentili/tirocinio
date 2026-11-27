@@ -1,0 +1,9 @@
+L'IT non chiede mai password via email o telefono.
+Autenticazione a due fattori obbligatoria con app.
+Canale ufficiale IT: ticket sul portale interno o interno telefonico.
+Fatture e documenti esterni passano dal protocollo, non da link diretti.
+I domini interni sono nordvia.invalid. I fornitori e i clienti scrivono da domini propri, elencati in anagrafica.
+Se il mittente è in elenco e non ci sono anomalie, la mail si apre senza altri controlli.
+La verifica si fa solo se il dominio non è in elenco, se somiglia a uno in elenco, o se la richiesta è insolita.
+Un link verso un dominio in elenco non è un'anomalia: conta solo se il dominio non è in elenco o somiglia a uno in elenco.
+Le coordinate bancarie si confrontano sempre con l'IBAN registrato in anagrafica.

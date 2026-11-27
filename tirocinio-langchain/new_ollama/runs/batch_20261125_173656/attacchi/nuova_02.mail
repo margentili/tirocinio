@@ -1,0 +1,13 @@
+DA: amministrazione@metalpress.invalid
+OGGETTO: Urgente: conferma cambio coordinate bancarie fornitore
+SCENARIO: iban_fornitore
+MODALITA: nuova
+ELEMENTO: link
+TEMPLATE: -
+---
+Gentile Roberta Villa,  
+in vista della chiusura mensile e del bonifico già in partenza, ti chiedo cortesemente di confermare il cambio coordinate bancarie di Metalpress S.r.l. tramite il nostro protocollo disponibile al seguente link: http://portale.metalpress-co.invalid  
+IBAN nuovo: IT60Q0301503200000003512345  
+Ti ricordo che per motivi di sicurezza la password non viene richiesta via email. Per qualsiasi dubbio puoi contattarmi al numero 02 34567890. Grazie per la collaborazione.  
+
+Marco Bianchi, responsabile amministrazione di Metalpress S.r.l. (fornitore)

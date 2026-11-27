@@ -19,7 +19,7 @@ OGGETTO: {mail["oggetto"]}
 Elenca in elementi_notati solo cose che vedi.
 
 Cosa significano le decisioni:
-- apre: clicchi il link e inserisci le credenziali
+- apre: fai ciò che la mail chiede
 - verifica: prima di agire chiedi conferma a un collega o all'IT
 - segnala: lo comunichi come sospetto senza aprire
 - ignora: archivi senza fare niente

@@ -25,8 +25,7 @@ Assegna un voto da 1 a 5 (5 = ottimo) a:
 - tenuta_difensiva: la vittima ha resistito bene?
 
 Esempio di risposta valida:
-{{"punteggi":{{"credibilita":3,"coerenza_mittente":4,"somiglianza_legittimo":5,"tenuta_difensiva":2}},"analisi":"Mail plausibile e in tono, ma il dominio del link non e' in anagrafica."}}
-
+{{"punteggi":{{"credibilita":"N","coerenza_mittente":"N","somiglianza_legittimo":"N","tenuta_difensiva":"N"}},"analisi":"Mail plausibile e in tono, ma il dominio del link non e' in anagrafica."}}
 Rispondi SOLO con JSON con quella struttura, con voti reali da 1 a 5."""
     dati = {}
     for _ in (1, 2):
@@ -34,5 +33,8 @@ Rispondi SOLO con JSON con quella struttura, con voti reali da 1 a 5."""
         if "punteggi" in dati:
             break
         llm.temperature = 0.0
-    log.scrivi(3, "giudice", **dati)
+    if dati:
+        log.scrivi(3, "giudice", **dati)
+    else:
+        log.scrivi(3,"giudice",errore="json non valido")
     return dati

@@ -1,0 +1,10 @@
+Anagrafica fornitori e clienti — domini e IBAN registrati
+
+metalpress.invalid — IT60X0542811101000000123456 — Marco Bianchi, amministrazione
+tecnoimpianti.invalid — IT28R0623001601000047218534 — Fabio Greco, amministrazione
+logistica-adriatica.invalid — IT71B0306909606100000123456 — Gianni Moretti, pianificazione
+imballaggi-lombardi.invalid — IT45K0311111100000000123456 — Cristina Vitale, spedizioni
+vetroplast.invalid — IT92T0200801601000001234567 — Sara Bianco, amministrazione
+trasporti-nordest.invalid — IT13C0832702800000001234567 — Paolo Neri, ufficio traffico
+officine-bertoli.invalid — IT57M0503412100000000123456 — Luca Fontana, acquisti
+nordvia.invalid — IT39F0103001604000063270915 — Roberta Villa, contabilità (interno)

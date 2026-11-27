@@ -1,0 +1,16 @@
+[
+ {"id":"segretaria_fiduciosa","nome":"Laura Benedetti","ruolo":"segretaria amministrativa",
+  "tratti":"6 anni in azienda, formazione scarsa, tende a fidarsi dei messaggi ufficiali, legge in diagonale"},
+ {"id":"segretaria_prudente","nome":"Marta Colombo","ruolo":"segretaria amministrativa",
+  "tratti":"formazione recente, controlla il mittente, chiede conferma al collega"},
+ {"id":"hr_generica","nome":"Chiara Rinaldi","ruolo":"risorse umane",
+  "tratti":"abituata a ricevere curriculum e documenti, carico alto"},
+ {"id":"gestore_ticket","nome":"Marco Ducci","ruolo":"gestore ticket IT",
+  "tratti":"competente ma saturo, smista senza leggere tutto"},
+  {"id":"amministrazione_carica","nome":"Roberta Villa","ruolo":"addetta amministrazione",
+ "tratti":"gestisce fatture e scadenze, controlla gli importi, carico alto a fine mese"},
+ {"id":"acquisti_carica","nome":"Elisa Conti","ruolo":"addetta acquisti",
+ "tratti":"gestisce ordini e preventivi, controlla i codici articolo, carico alto a fine mese"},
+ {"id":"magazzino_carico","nome":"Davide Riva","ruolo":"addetto magazzino",
+ "tratti":"scarica merce e controlla i DDT, lavora in fretta, salta i dettagli"}
+]
